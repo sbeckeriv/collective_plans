@@ -37,24 +37,13 @@ sort_reverse: false
     </select>
   </div>
 
-  <div class="filter-group">
-    <label>Theme:</label>
-    <select id="filter-theme" onchange="filterMachines()">
-      <option value="">All</option>
-      {% assign themes = site.pinball | map: "theme" | uniq | sort %}
-      {% for theme in themes %}
-      <option value="{{ theme }}">{{ theme }}</option>
-      {% endfor %}
-    </select>
-  </div>
-
   <button onclick="clearFilters()" class="btn-clear">Clear Filters</button>
 </div>
 
 <div class="machine-grid">
   {% for machine in site.pinball %}
   <div class="machine-card" data-manufacturer="{{ machine.manufacturer }}" data-type="{{ machine.type }}"
-    data-theme="{{ machine.theme }}" data-year="{{ machine.year }}">
+    data-year="{{ machine.year }}">
     {% if machine.image %}
     <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
     {% endif %}
@@ -69,7 +58,6 @@ sort_reverse: false
   function filterMachines() {
     const mfgFilter = document.getElementById('filter-manufacturer').value;
     const typeFilter = document.getElementById('filter-type').value;
-    const themeFilter = document.getElementById('filter-theme').value;
 
     const cards = document.querySelectorAll('.machine-card');
     let visibleCount = 0;
@@ -77,13 +65,11 @@ sort_reverse: false
     cards.forEach(card => {
       const mfg = card.dataset.manufacturer;
       const type = card.dataset.type;
-      const theme = card.dataset.theme;
 
       const mfgMatch = !mfgFilter || mfg === mfgFilter;
       const typeMatch = !typeFilter || type === typeFilter;
-      const themeMatch = !themeFilter || theme === themeFilter;
 
-      if (mfgMatch && typeMatch && themeMatch) {
+      if (mfgMatch && typeMatch) {
         card.style.display = '';
         visibleCount++;
       } else {
@@ -97,7 +83,6 @@ sort_reverse: false
   function clearFilters() {
     document.getElementById('filter-manufacturer').value = '';
     document.getElementById('filter-type').value = '';
-    document.getElementById('filter-theme').value = '';
     filterMachines();
   }
 </script>
