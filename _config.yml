@@ -5,6 +5,18 @@ url: "https://sbeckeriv.github.io"
 
 theme: minima
 
+# --- Files to exclude from build ---
+exclude:
+  - machines/
+  - setup.sh
+  - load.sh
+  - validate-images.sh
+  - standardize_manufacturers.py
+  - standardize_manufacturers.sh
+  - README
+  - Gemfile
+  - Gemfile.lock
+
 # --- Collection ---
 collections:
   pinball:
