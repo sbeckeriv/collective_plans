@@ -1,6 +1,6 @@
 ---
 title: Avengers Infinity Quest Pro
-manufacturer: Stern Pinball
+manufacturer: Stern
 manufacturer_url: https://sternpinball.com/game/avengers-infinity-quest/
 year: 2020
 designer: Keith Elwin
