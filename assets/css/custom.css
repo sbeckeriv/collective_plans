@@ -81,16 +81,16 @@
   .machine-grid {
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   }
-  
+
   .filters {
     flex-direction: column;
   }
-  
+
   .filter-group {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .filter-group select {
     width: 100%;
   }

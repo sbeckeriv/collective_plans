@@ -15,7 +15,7 @@ features:
   - friends system
   - orbs
   - shot multipliers
-image: /assets/images/pinball/labyrinth.jpg
+image: /assets/images/pinball/labyrinth.png
 ---
 
 # 🔮 Jim Henson's Labyrinth Pinball
