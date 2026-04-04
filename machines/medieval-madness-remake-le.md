@@ -1,0 +1,12 @@
+---
+title: "Medieval Madness (Remake LE)"
+opdb_id: G5pe4-M61y6
+shortname: "MM"
+manufacturer: Chicago Gaming Company
+year: 2015
+manufacture_date: 2015-03-01
+features:
+  - "Limited edition"
+  - "Remake"
+image: /assets/images/pinball/medieval-madness-remake-le.jpg
+---

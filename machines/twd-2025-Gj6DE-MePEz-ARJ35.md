@@ -1,0 +1,13 @@
+---
+title: "The Walking Dead Remastered (Premium)"
+opdb_id: Gj6DE-MePEz-ARJ35
+is_alias: true
+common_name: "TWD"
+shortname: "TWD"
+manufacturer: Stern Pinball
+year: 2025
+manufacture_date: 2025-11-01
+features:
+  - "Premium edition"
+image: /assets/images/pinball/twd-2025-Gj6DE-MePEz-ARJ35.jpg
+---

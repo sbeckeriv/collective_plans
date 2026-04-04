@@ -1,0 +1,10 @@
+---
+title: "Jungle Princess"
+opdb_id: GrNnr-MJkj3
+shortname: "JP"
+manufacturer: Gottlieb
+year: 1977
+manufacture_date: 1977-08-01
+ipdb_id: 1339
+image: /assets/images/pinball/jungle-princess.jpg
+---

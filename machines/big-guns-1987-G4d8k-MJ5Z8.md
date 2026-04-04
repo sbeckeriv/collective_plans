@@ -1,0 +1,10 @@
+---
+title: "Big Guns"
+opdb_id: G4d8k-MJ5Z8
+shortname: "BG"
+manufacturer: Williams
+year: 1987
+manufacture_date: 1987-10-01
+ipdb_id: 250
+image: /assets/images/pinball/big-guns-1987-G4d8k-MJ5Z8.jpg
+---

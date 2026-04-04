@@ -1,0 +1,10 @@
+---
+title: "Mario Andretti"
+opdb_id: GRBqq-Mp4ZY
+shortname: "MA"
+manufacturer: Gottlieb
+year: 1995
+manufacture_date: 1995-01-01
+ipdb_id: 3794
+image: /assets/images/pinball/mario-andretti.jpg
+---

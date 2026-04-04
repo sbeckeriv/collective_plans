@@ -1,0 +1,12 @@
+---
+title: "James Bond 007"
+opdb_id: G4PXJ-MQPlw
+shortname: "JB"
+manufacturer: Gottlieb
+year: 1980
+manufacture_date: 1980-01-01
+ipdb_id: 1286
+features:
+  - "Widebody"
+image: /assets/images/pinball/james-bond-007.jpg
+---

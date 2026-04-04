@@ -1,0 +1,10 @@
+---
+title: "Humpty Dumpty"
+opdb_id: GyVVQ-MVKYX
+shortname: "HD"
+manufacturer: Gottlieb
+year: 1947
+manufacture_date: 1947-10-25
+ipdb_id: 1254
+image: /assets/images/pinball/humpty-dumpty.jpg
+---

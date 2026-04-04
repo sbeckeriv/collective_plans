@@ -1,0 +1,10 @@
+---
+title: "Funhouse"
+opdb_id: G5Dz7-Mq139
+shortname: "FH"
+manufacturer: Williams
+year: 1990
+manufacture_date: 1990-11-01
+ipdb_id: 966
+image: /assets/images/pinball/funhouse.jpg
+---

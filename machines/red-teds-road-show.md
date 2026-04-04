@@ -1,0 +1,13 @@
+---
+title: "Red & Ted's Road Show"
+opdb_id: G4dWd-MJ2p6
+common_name: "Road Show"
+shortname: "RS"
+manufacturer: Williams
+year: 1994
+manufacture_date: 1994-01-01
+ipdb_id: 1972
+features:
+  - "Widebody"
+image: /assets/images/pinball/red-teds-road-show.jpg
+---

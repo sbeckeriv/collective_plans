@@ -1,0 +1,13 @@
+---
+title: "Captain Hook"
+opdb_id: G4jeW-MDb93
+shortname: "CH"
+manufacturer: Game Plan
+year: 1985
+manufacture_date: 1985-01-04
+ipdb_id: 434
+features:
+  - "Add-a-ball"
+  - "Replay"
+image: /assets/images/pinball/captain-hook.jpg
+---

@@ -1,0 +1,13 @@
+---
+title: "The Hobbit"
+opdb_id: G5bYr-MLezO
+shortname: "TH"
+manufacturer: Jersey Jack Pinball
+year: 2015
+manufacture_date: 2015-12-31
+ipdb_id: 6222
+features:
+  - "Pro edition"
+  - "Widebody"
+image: /assets/images/pinball/the-hobbit.jpg
+---

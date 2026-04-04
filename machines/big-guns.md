@@ -1,0 +1,9 @@
+---
+title: "Big Guns"
+opdb_id: G4d8k-Mx0EO
+manufacturer: Cirsa
+year: 1987
+manufacture_date: 1987-01-01
+ipdb_id: 4622
+image: /assets/images/pinball/big-guns.jpg
+---

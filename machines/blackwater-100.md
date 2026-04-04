@@ -1,0 +1,10 @@
+---
+title: "Blackwater 100"
+opdb_id: G5K6X-MQjwK
+shortname: "BW100"
+manufacturer: Bally
+year: 1988
+manufacture_date: 1988-03-01
+ipdb_id: 319
+image: /assets/images/pinball/blackwater-100.jpg
+---

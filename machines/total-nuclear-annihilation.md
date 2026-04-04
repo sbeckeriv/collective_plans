@@ -1,0 +1,10 @@
+---
+title: "Total Nuclear Annihilation"
+opdb_id: GRD79-M0odk
+shortname: "TNA"
+manufacturer: Spooky Pinball
+year: 2017
+manufacture_date: 2017-01-01
+ipdb_id: 6444
+image: /assets/images/pinball/total-nuclear-annihilation.jpg
+---

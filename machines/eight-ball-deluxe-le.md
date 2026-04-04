@@ -1,0 +1,12 @@
+---
+title: "Eight Ball Deluxe (LE)"
+opdb_id: G5KXk-MLqNz
+shortname: "EBD"
+manufacturer: Bally
+year: 1982
+manufacture_date: 1982-10-01
+ipdb_id: 763
+features:
+  - "Limited edition"
+image: /assets/images/pinball/eight-ball-deluxe-le.jpg
+---

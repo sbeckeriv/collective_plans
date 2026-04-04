@@ -1,0 +1,10 @@
+---
+title: "Sharkey's Shootout"
+opdb_id: GRwv0-MJ99E
+shortname: "SS"
+manufacturer: Stern Pinball
+year: 2000
+manufacture_date: 2000-09-01
+ipdb_id: 4492
+image: /assets/images/pinball/sharkeys-shootout.jpg
+---

@@ -1,0 +1,10 @@
+---
+title: "Strange World"
+opdb_id: GRYox-MJV2B
+shortname: "SW"
+manufacturer: Gottlieb
+year: 1978
+manufacture_date: 1978-02-01
+ipdb_id: 2397
+image: /assets/images/pinball/strange-world.jpg
+---

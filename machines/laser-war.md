@@ -1,0 +1,10 @@
+---
+title: "Laser War"
+opdb_id: G5one-MQY5V
+shortname: "LW"
+manufacturer: Data East
+year: 1987
+manufacture_date: 1987-03-01
+ipdb_id: 1415
+image: /assets/images/pinball/laser-war.jpg
+---

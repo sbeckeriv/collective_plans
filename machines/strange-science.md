@@ -1,0 +1,10 @@
+---
+title: "Strange Science"
+opdb_id: G5nzJ-MJVX8
+shortname: "SS"
+manufacturer: Bally
+year: 1986
+manufacture_date: 1986-01-01
+ipdb_id: 2396
+image: /assets/images/pinball/strange-science.jpg
+---

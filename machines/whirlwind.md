@@ -1,0 +1,10 @@
+---
+title: "Whirlwind"
+opdb_id: GrE7e-MQ9N1
+shortname: "WW"
+manufacturer: Williams
+year: 1990
+manufacture_date: 1990-01-01
+ipdb_id: 2765
+image: /assets/images/pinball/whirlwind.jpg
+---

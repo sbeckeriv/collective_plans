@@ -1,0 +1,9 @@
+---
+title: "Cosmic Carnival"
+opdb_id: GkBPY-MOEbP
+shortname: "CC"
+manufacturer: Suncoast Pinball
+year: 2019
+manufacture_date: 2019-05-01
+image: /assets/images/pinball/cosmic-carnival.jpg
+---

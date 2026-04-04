@@ -1,0 +1,10 @@
+---
+title: "U-Boat 65"
+opdb_id: GRD67-Mo1Ol
+shortname: "U65"
+manufacturer: Bell Games
+year: 1988
+manufacture_date: 1988-06-01
+ipdb_id: 3736
+image: /assets/images/pinball/u-boat-65.jpg
+---

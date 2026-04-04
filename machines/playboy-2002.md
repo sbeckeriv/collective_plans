@@ -1,0 +1,10 @@
+---
+title: "Playboy"
+opdb_id: GrPKO-MLO5X
+shortname: "PB"
+manufacturer: Stern Pinball
+year: 2002
+manufacture_date: 2002-01-01
+ipdb_id: 4506
+image: /assets/images/pinball/playboy-2002.jpg
+---

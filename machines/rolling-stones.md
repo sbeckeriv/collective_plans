@@ -1,0 +1,10 @@
+---
+title: "Rolling Stones"
+opdb_id: G5Qz4-MQddv
+shortname: "RS"
+manufacturer: Bally
+year: 1979
+manufacture_date: 1979-06-01
+ipdb_id: 2010
+image: /assets/images/pinball/rolling-stones.jpg
+---

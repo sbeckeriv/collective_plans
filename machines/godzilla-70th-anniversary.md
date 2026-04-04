@@ -1,0 +1,13 @@
+---
+title: "Godzilla (70th Anniversary)"
+opdb_id: GweeP-Ml9pZ-AOvNL
+is_alias: true
+common_name: "GZ"
+shortname: "GZ"
+manufacturer: Stern Pinball
+year: 2024
+manufacture_date: 2024-07-01
+features:
+  - "Premium edition"
+image: /assets/images/pinball/godzilla-70th-anniversary.jpg
+---

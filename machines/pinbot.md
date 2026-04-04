@@ -1,0 +1,10 @@
+---
+title: "Pinbot"
+opdb_id: G41Z8-MJKvP
+shortname: "PB"
+manufacturer: Williams
+year: 1986
+manufacture_date: 1986-10-06
+ipdb_id: 1796
+image: /assets/images/pinball/pinbot.jpg
+---

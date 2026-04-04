@@ -1,0 +1,10 @@
+---
+title: "Six Million Dollar Man"
+opdb_id: GrEke-ML8qN
+shortname: "$6M"
+manufacturer: Bally
+year: 1977
+manufacture_date: 1977-08-31
+ipdb_id: 2165
+image: /assets/images/pinball/six-million-dollar-man.jpg
+---

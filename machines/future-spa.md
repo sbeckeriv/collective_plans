@@ -1,0 +1,12 @@
+---
+title: "Future Spa"
+opdb_id: G5Dbo-M3dv6
+shortname: "FS"
+manufacturer: Bally
+year: 1979
+manufacture_date: 1979-03-20
+ipdb_id: 974
+features:
+  - "Widebody"
+image: /assets/images/pinball/future-spa.jpg
+---

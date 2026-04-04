@@ -1,0 +1,10 @@
+---
+title: "Fireball"
+opdb_id: G48ZN-Mb58O
+shortname: "FB"
+manufacturer: Bally
+year: 1972
+manufacture_date: 1972-02-01
+ipdb_id: 852
+image: /assets/images/pinball/fireball.jpg
+---

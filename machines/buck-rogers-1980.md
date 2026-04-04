@@ -1,0 +1,10 @@
+---
+title: "Buck Rogers"
+opdb_id: GRKx7-MJ49e
+shortname: "BR"
+manufacturer: Gottlieb
+year: 1980
+manufacture_date: 1980-01-01
+ipdb_id: 392
+image: /assets/images/pinball/buck-rogers-1980.jpg
+---
