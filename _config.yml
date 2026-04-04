@@ -1,7 +1,7 @@
 title: Pinball Database
 description: A catalogue of pinball machines spanning decades of history.
 baseurl: ""
-url: ""   # e.g. https://yourusername.github.io
+url: "https://sbeckeriv.github.io"
 
 theme: minima
 

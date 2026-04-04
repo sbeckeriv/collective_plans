@@ -1,22 +1,23 @@
 ---
 layout: default
 title: All Pinball Machines
+permalink: /pinball/
 pagination:
-  enabled: true
-  collection: pinball
-  per_page: 24
-  sort_field: title
-  sort_reverse: false
+enabled: true
+collection: pinball
+per_page: 24
+sort_field: title
+sort_reverse: false
 ---
 
 <h1>All Pinball Machines</h1>
 <p>{{ site.pinball.size }} machines in the database.</p>
 
 <div class="machine-grid">
-  {% for machine in paginator.documents %}
+  {% for machine in site.pinball %}
   <div class="machine-card">
     {% if machine.image %}
-      <img src="{{ machine.image }}" alt="{{ machine.title }}" loading="lazy">
+    <img src="{{ machine.image }}" alt="{{ machine.title }}" loading="lazy">
     {% endif %}
     <h2><a href="{{ machine.url }}">{{ machine.title }}</a></h2>
     <p><strong>{{ machine.manufacturer }}</strong> &bull; {{ machine.year }}</p>
@@ -28,19 +29,19 @@ pagination:
 {% if paginator.total_pages > 1 %}
 <nav class="pagination" aria-label="Page navigation">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}">&laquo; Previous</a>
+  <a href="{{ paginator.previous_page_path }}">&laquo; Previous</a>
   {% endif %}
 
   {% for page in paginator.page_trail %}
-    {% if page.num == paginator.page %}
-      <strong>{{ page.num }}</strong>
-    {% else %}
-      <a href="{{ page.path }}">{{ page.num }}</a>
-    {% endif %}
+  {% if page.num == paginator.page %}
+  <strong>{{ page.num }}</strong>
+  {% else %}
+  <a href="{{ page.path }}">{{ page.num }}</a>
+  {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
+  <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
   {% endif %}
 </nav>
 {% endif %}
