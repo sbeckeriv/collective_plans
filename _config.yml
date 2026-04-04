@@ -1,0 +1,40 @@
+title: Pinball Database
+description: A catalogue of pinball machines spanning decades of history.
+baseurl: ""
+url: ""   # e.g. https://yourusername.github.io
+
+theme: minima
+
+# --- Collection ---
+collections:
+  pinball:
+    output: true
+    permalink: /pinball/:slug/
+
+# --- Default front matter for all machines ---
+defaults:
+  - scope:
+      path: ""
+      type: pinball
+    values:
+      layout: machine
+
+# --- Pagination (jekyll-paginate-v2) ---
+pagination:
+  enabled: true
+  collection: pinball
+  per_page: 24
+  sort_field: title
+  sort_reverse: false
+  trail:
+    before: 2
+    after: 2
+
+# --- Plugins ---
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+minima:
+  skin: classic

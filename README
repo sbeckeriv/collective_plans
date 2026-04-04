@@ -1,0 +1,234 @@
+Here's the `README.md` — save it to the root of your project:
+
+```markdown
+# 🎰 Pinball Database
+
+A static site cataloguing pinball machines, built with [Jekyll](https://jekyllrb.com/)
+and the [Minima](https://github.com/jekyll/minima) theme. Hosted on GitHub Pages.
+
+---
+
+## Prerequisites
+
+You'll need the following installed before getting started:
+
+- **Ruby** (version 2.7.0 or higher)
+- **RubyGems**
+- **Git**
+
+### Installing Ruby
+
+#### macOS
+
+macOS ships with an old system Ruby. Use [Homebrew](https://brew.sh/) instead:
+
+```bash
+brew install ruby
+```
+
+Then add Ruby to your PATH (add this to your `~/.zshrc` or `~/.bashrc`):
+
+```bash
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+```
+
+#### Ubuntu / Debian
+
+```bash
+sudo apt-get install ruby-full build-essential
+```
+
+Then configure a local gem directory to avoid needing `sudo`:
+
+```bash
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+```
+
+#### Windows
+
+Use [RubyInstaller](https://rubyinstaller.org/). Download and run the
+installer with the **MSYS2 toolchain** option checked. Alternatively, use
+[WSL](https://docs.microsoft.com/en-us/windows/wsl/) and follow the
+Ubuntu instructions above.
+
+---
+
+## Installing Dependencies
+
+Once Ruby is set up, install the project's gems via Bundler:
+
+```bash
+cd pinball-db
+bundle install
+```
+
+This reads the `Gemfile` and installs everything needed, including:
+
+- `jekyll` — the static site generator
+- `minima` — the theme
+- `jekyll-paginate-v2` — pagination support for the machine listing
+- `jekyll-seo-tag` — SEO meta tags
+- `jekyll-sitemap` — auto-generated sitemap
+
+---
+
+## Previewing Locally
+
+Start the local development server:
+
+```bash
+bundle exec jekyll serve
+```
+
+Then open your browser and visit:
+
+```
+http://localhost:4000
+```
+
+The site will **automatically rebuild** whenever you save changes to any file.
+
+### Useful flags
+
+| Flag | Description |
+|---|---|
+| `--livereload` | Auto-refreshes the browser on changes |
+| `--drafts` | Includes draft posts in the build |
+| `--port 5000` | Run on a different port |
+
+Example with live reload:
+
+```bash
+bundle exec jekyll serve --livereload
+```
+
+---
+
+## Adding Machines
+
+Each pinball machine is a Markdown file inside the `_pinball/` folder.
+Copy the template below and save it as `_pinball/your-machine-name.md`:
+
+```yaml
+---
+title: "Machine Title"
+manufacturer: Stern
+year: 2001
+designer: Steve Ritchie
+artist: ""
+type: DMD              # EM | Solid State | DMD | LCD
+theme: Movies
+players: 4
+ipdb_id: 123           # Find at https://www.ipdb.org
+features:
+  - multiball
+  - ramps
+image: /assets/images/pinball/your-machine.jpg
+---
+
+Write a description of the machine here in plain Markdown.
+```
+
+Place any cover images in `assets/images/pinball/`.
+
+---
+
+## Deploying to GitHub Pages
+
+> **Why GitHub Actions?** The `jekyll-paginate-v2` plugin is not on GitHub's
+> approved plugin list, so the default Pages build process won't work. Instead,
+> we use a GitHub Actions workflow to build the site and deploy the output.
+> This is already set up in `.github/workflows/deploy.yml`.
+
+### Step 1 — Create a GitHub repository
+
+1. Go to [github.com/new](https://github.com/new)
+2. Name your repository (e.g. `pinball-db`)
+3. Set it to **Public** (required for free GitHub Pages)
+4. Do **not** initialise with a README (you already have one)
+
+### Step 2 — Push your code
+
+```bash
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git push -u origin main
+```
+
+### Step 3 — Enable GitHub Pages
+
+1. Go to your repository on GitHub
+2. Click **Settings** → **Pages** (in the left sidebar)
+3. Under **Build and deployment**, set Source to **GitHub Actions**
+
+### Step 4 — Verify the deployment
+
+GitHub Actions will automatically build and deploy your site on every push
+to `main`. You can watch the progress under the **Actions** tab of your repo.
+
+Once deployed, your site will be live at:
+
+```
+https://YOUR_USERNAME.github.io/YOUR_REPO/
+```
+
+### Subsequent deploys
+
+Every time you push changes to `main`, the site rebuilds and deploys
+automatically — no manual steps needed.
+
+```bash
+git add .
+git commit -m "Add 10 new machines"
+git push
+```
+
+---
+
+## Project Structure
+
+```
+pinball-db/
+├── _pinball/                  # One .md file per machine
+├── _layouts/
+│   └── machine.html           # Individual machine page template
+├── _includes/                 # Reusable HTML snippets
+├── assets/
+│   ├── css/custom.css         # Responsive grid & mobile styles
+│   └── images/pinball/        # Machine cover art
+├── .github/workflows/
+│   └── deploy.yml             # GitHub Actions build & deploy
+├── _config.yml                # Jekyll configuration
+├── Gemfile                    # Ruby dependencies
+├── index.md                   # Homepage
+└── pinball.html               # Paginated machine listing
+```
+
+---
+
+## Troubleshooting
+
+**`bundle: command not found`**
+→ Run `gem install bundler` first.
+
+**`Permission denied` errors when running `gem install`**
+→ Make sure you followed the local gem directory setup above — avoid using `sudo gem install`.
+
+**Changes not showing up locally**
+→ Stop the server (`Ctrl+C`) and restart with `bundle exec jekyll serve`.
+
+**GitHub Actions failing**
+→ Click the **Actions** tab in your repo and open the failing workflow run to read the error log.
+
+---
+
+## Resources
+
+- [Jekyll Documentation](https://jekyllrb.com/docs/)
+- [Minima Theme](https://github.com/jekyll/minima)
+- [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
+- [Internet Pinball Database (IPDB)](https://www.ipdb.org)
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
+```
