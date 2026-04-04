@@ -82,7 +82,23 @@ There are **5 cases** in order: Missing Bullet → Broken Mirror → Bloody Dagg
 3. **Who Dunnit?** - Select the killer at the phone
 4. **Catch the Killer** - Chase on the Roof → Roof Multiball
 
-> **💡 Pro Tip:** The guilty suspect is **always discussed in the first interrogation** unless they mention "Walter" (Butler) or "Tex" (Bruno) <kcite ref="27"/>.
+#### 🔍 Identifying the Guilty Suspect
+
+**Listen to the first interrogation carefully!** The guilty suspect is determined by specific dialogue:
+
+| Dialogue Contains    | Guilty Suspect       | Notes                     |
+| -------------------- | -------------------- | ------------------------- |
+| **"Victoria"**       | Victoria the Dancer  | Most common               |
+| **"Tony"**           | Tony the Crooked Cop |                           |
+| **"Trixie"**         | Trixie the Palmist   |                           |
+| **"Fingers"**        | Fingers the Gambler  |                           |
+| **"Mona"**           | Mona the Lover       |                           |
+| **"Biff"**           | Biff the Boxer       |                           |
+| **"Walter" / "Tex"** | Keep interrogating   | ⚠️ These are never guilty! |
+
+> **💡 Pro Tip:** The guilty suspect's name is **always mentioned in the first interrogation** unless they mention "Walter" (Butler) or "Tex" (Bruno), who are red herrings. If you hear Walter or Tex mentioned first, keep interrogating until you hear one of the actual suspects <kcite ref="27"/>.
+
+**Example:** If the detective says "I spoke with Victoria..." → Victoria is guilty!
 
 ---
 
