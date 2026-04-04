@@ -1,14 +1,8 @@
 ---
 layout: default
 title: Pinball Strategy Guides
-pagination:
-  enabled: true
-  collection: pinball
 ---
-
-<h1>AI-Generated Pinball Strategy Guides</h1>
 <p>Master the game with comprehensive strategy guides for classic and modern pinball machines.</p>
-<p><span id="machine-count">{{ site.pinball.size }}</span> machines in the database.</p>
 
 <!-- Filters -->
 <div class="filters">
@@ -40,6 +34,8 @@ pagination:
     </div>
 
     <button onclick="clearFilters()" class="btn-clear">Clear Filters</button>
+
+    <p><span id="machine-count">{{ site.pinball.size }}</span> machines in the database.</p>
 </div>
 
 <!-- All machines data (hidden, for search) -->
@@ -51,6 +47,7 @@ pagination:
     "manufacturer": {{ machine.manufacturer | jsonify }},
     "type": {{ machine.type | jsonify }},
     "year": {{ machine.year | jsonify }},
+    "updated": {{ machine.updated | jsonify }},
     "url": {{ machine.url | relative_url | jsonify }},
     "image": {{ machine.image | relative_url | jsonify }}
   }{% unless forloop.last %},{% endunless %}
@@ -58,113 +55,75 @@ pagination:
 ]
 </script>
 
-<div class="machine-grid" id="paginated-grid">
-    {% for machine in paginator.posts %}
-    <div class="machine-card" data-manufacturer="{{ machine.manufacturer }}" data-type="{{ machine.type }}"
-        data-year="{{ machine.year }}" data-title="{{ machine.title | downcase }}">
-        {% if machine.image %}
-        <a href="{{ machine.url | relative_url }}">
-            <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
-        </a>
-        {% endif %}
-        <h2><a href="{{ machine.url | relative_url }}">{{ machine.title }}</a></h2>
-        <p><strong>{{ machine.manufacturer }}</strong> &bull; {{ machine.year }}</p>
-        <p><em>{{ machine.type }}</em></p>
-    </div>
-    {% endfor %}
-</div>
-
-<div class="machine-grid" id="search-results-grid" style="display: none;"></div>
-
-{% if paginator.total_pages > 1 %}
-<nav class="pagination" aria-label="Page navigation">
-  {% if paginator.previous_page %}
-  <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
-  {% endif %}
-
-  {% for page in paginator.page_trail %}
-  {% if page.num == paginator.page %}
-  <strong>{{ page.num }}</strong>
-  {% else %}
-  <a href="{{ page.path | relative_url }}">{{ page.num }}</a>
-  {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-  <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% endif %}
-</nav>
-{% endif %}
+<div class="machine-grid" id="machine-grid"></div>
 
 <script>
-  let allMachines = [];
-  let isSearching = false;
+    const totalMachineCount = {{ site.pinball.size }};
+    let allMachines = [];
 
-  // Load all machines data
-        try {
-            allMachines = JSON.parse(document.getElementById('all-machines-data').textContent);
-        } catch (e) {
-            console.error('Failed to load machine data:', e);
-        }
-
-        function filterMachines() {
-            const searchFilter = document.getElementById('filter-search').value.toLowerCase();
-            const mfgFilter = document.getElementById('filter-manufacturer').value;
-            const typeFilter = document.getElementById('filter-type').value;
-
-            const hasFilters = searchFilter || mfgFilter || typeFilter;
-
-            if (!hasFilters) {
-                // No filters - show paginated grid, hide search results
-                document.getElementById('paginated-grid').style.display = '';
-                document.getElementById('search-results-grid').style.display = 'none';
-                document.querySelector('.pagination')?.style.setProperty('display', '', 'important');
-                document.getElementById('machine-count').textContent = {{ site.pinball.size }};
-                isSearching = false;
-                return;
+    // Load all machines data
+    try {
+        allMachines = JSON.parse(document.getElementById('all-machines-data').textContent);
+        // Sort by updated date (newest first), then by title
+        allMachines.sort((a, b) => {
+            if (a.updated && b.updated) {
+                return b.updated.localeCompare(a.updated);
             }
-
-        // Has filters - search all machines
-        isSearching = true;
-        const resultsGrid = document.getElementById('search-results-grid');
-        const paginatedGrid = document.getElementById('paginated-grid');
-        const pagination = document.querySelector('.pagination');
-
-        // Hide pagination and paginated grid when filtering
-        paginatedGrid.style.display = 'none';
-        if (pagination) pagination.style.display = 'none';
-        resultsGrid.style.display = '';
-
-        // Filter all machines
-        const filtered = allMachines.filter(machine => {
-            const searchMatch = !searchFilter || machine.title.toLowerCase().includes(searchFilter);
-            const mfgMatch = !mfgFilter || machine.manufacturer === mfgFilter;
-            const typeMatch = !typeFilter || machine.type === typeFilter;
-            return searchMatch && mfgMatch && typeMatch;
+            return a.title.localeCompare(b.title);
         });
+    } catch (e) {
+        console.error('Failed to load machine data:', e);
+    }
 
-        // Update count
-        document.getElementById('machine-count').textContent = filtered.length;
+    function renderMachines(machines) {
+        const grid = document.getElementById('machine-grid');
+        grid.innerHTML = machines.map(machine => `
+            <div class="machine-card">
+                ${machine.image ? `
+                    <a href="${machine.url}">
+                        <img src="${machine.image}" alt="${machine.title}" loading="lazy">
+                    </a>
+                ` : ''}
+                <h2><a href="${machine.url}">${machine.title}</a></h2>
+                <p><strong>${machine.manufacturer}</strong> &bull; ${machine.year}</p>
+                <p><em>${machine.type}</em></p>
+            </div>
+        `).join('');
+    }
 
-        // Render filtered results
-        resultsGrid.innerHTML = filtered.map(machine => `
-      <div class="machine-card">
-        ${machine.image ? `
-          <a href="${machine.url}">
-            <img src="${machine.image}" alt="${machine.title}" loading="lazy">
-          </a>
-        ` : ''}
-        <h2><a href="${machine.url}">${machine.title}</a></h2>
-        <p><strong>${machine.manufacturer}</strong> &bull; ${machine.year}</p>
-        <p><em>${machine.type}</em></p>
-      </div>
-    `).join('');
-  }
+    function filterMachines() {
+        const searchFilter = document.getElementById('filter-search').value.toLowerCase();
+        const mfgFilter = document.getElementById('filter-manufacturer').value;
+        const typeFilter = document.getElementById('filter-type').value;
 
-        function clearFilters() {
-            document.getElementById('filter-search').value = '';
-            document.getElementById('filter-manufacturer').value = '';
-            document.getElementById('filter-type').value = '';
-            filterMachines();
+        const hasFilters = searchFilter || mfgFilter || typeFilter;
+
+        let filtered = allMachines;
+
+        if (hasFilters) {
+            // Filter machines
+            filtered = allMachines.filter(machine => {
+                const searchMatch = !searchFilter || machine.title.toLowerCase().includes(searchFilter);
+                const mfgMatch = !mfgFilter || machine.manufacturer === mfgFilter;
+                const typeMatch = !typeFilter || machine.type === typeFilter;
+                return searchMatch && mfgMatch && typeMatch;
+            });
         }
-    </script>
+
+        // Update count and render
+        document.getElementById('machine-count').textContent = filtered.length;
+        renderMachines(filtered);
+    }
+
+    function clearFilters() {
+        document.getElementById('filter-search').value = '';
+        document.getElementById('filter-manufacturer').value = '';
+        document.getElementById('filter-type').value = '';
+        filterMachines();
+    }
+
+    // Initial render on page load
+    document.addEventListener('DOMContentLoaded', () => {
+        renderMachines(allMachines);
+    });
+</script>

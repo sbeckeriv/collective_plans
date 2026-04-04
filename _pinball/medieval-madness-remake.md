@@ -10,6 +10,7 @@ theme: Medieval Fantasy / Comedy
 players: 4
 ipdb_id: 6264
 image: /assets/images/pinball/medieval-madness-remake-le.png
+updated: 2026-04-04
 ---
 
 # 🏰 Medieval Madness Remake LE - Complete Strategy Guide

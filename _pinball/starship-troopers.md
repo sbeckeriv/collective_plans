@@ -16,6 +16,7 @@ features:
   - wizard mode
   - magnets
 image: /assets/images/pinball/starship-troopers.png
+updated: 2026-04-04
 ---
 
 # 🪲 STARSHIP TROOPERS PINBALL

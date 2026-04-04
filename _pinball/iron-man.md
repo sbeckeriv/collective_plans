@@ -10,6 +10,7 @@ theme: Marvel Superhero / Comic
 players: 4
 ipdb_id: 5550
 image: /assets/images/pinball/iron-man.png
+updated: 2026-04-04
 ---
 
 # 🦾 Iron Man Pinball Strategy Guide

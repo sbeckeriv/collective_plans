@@ -16,6 +16,7 @@ features:
   - widebody
   - electromechanical
 image: /assets/images/pinball/4-aces.png
+updated: 2026-04-04
 ---
 
 # 🃏 4 Aces (Williams, 1970) — Complete Strategy Guide

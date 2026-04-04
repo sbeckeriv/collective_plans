@@ -10,6 +10,7 @@ theme: Spy / Secret Agent
 players: 4
 ipdb_id: 2328
 image: /assets/images/pinball/spy-hunter.jpg
+updated: 2026-04-04
 ---
 
 # 🕵️ Spy Hunter Pinball Strategy Guide

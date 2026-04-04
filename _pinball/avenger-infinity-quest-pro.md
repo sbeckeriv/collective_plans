@@ -10,6 +10,7 @@ theme: Superheroes
 players: 4
 ipdb_id: 6756
 image: /assets/images/pinball/avengers-infinity-quest-pro.png
+updated: 2026-04-04
 ---
 
 # 🦸 Avengers: Infinity Quest Pro - Complete Strategy Guide

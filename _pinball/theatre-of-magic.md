@@ -10,6 +10,7 @@ theme: Magic / Illusion
 players: 1-4
 ipdb_id: 2845
 image: /assets/images/pinball/theatre-of-magic.png
+updated: 2026-04-04
 ---
 
 # 🎩 Theatre of Magic - Complete Strategy Guide

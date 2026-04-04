@@ -10,6 +10,7 @@ theme: Licensed Theme - Star Wars Original Trilogy
 players: 4
 ipdb_id: 4054
 image: /assets/images/pinball/star-wars-trilogy.png
+updated: 2026-04-04
 ---
 
 # 🌟 Star Wars Trilogy Pinball Strategy Guide

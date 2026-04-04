@@ -10,6 +10,7 @@ theme: Murder Mystery / 1940s Noir
 players: 4
 ipdb_id: 3685
 image: /assets/images/pinball/who-dunnit.jpg
+updated: 2026-04-04
 ---
 
 # 🔍 WHO Dunnit Pinball Guide

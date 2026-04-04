@@ -10,6 +10,7 @@ theme: Sci-Fi / Alien Invasion
 players: 1-4
 ipdb_id: 4446
 image: /assets/images/pinball/revenge-from-mars.png
+updated: 2026-04-04
 ---
 
 # 🛸 Revenge from Mars - Complete Strategy Guide

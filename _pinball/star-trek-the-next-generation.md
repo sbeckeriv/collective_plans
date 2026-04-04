@@ -10,6 +10,7 @@ theme: Science Fiction, Licensed Theme
 players: 1-4
 ipdb_id: 2357
 image: /assets/images/pinball/star-trek-the-next-generation.png
+updated: 2026-04-04
 ---
 
 # 🖖 Star Trek: The Next Generation Pinball Guide

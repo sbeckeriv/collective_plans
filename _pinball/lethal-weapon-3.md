@@ -10,6 +10,7 @@ theme: Action Movie / Buddy Cop
 players: 4
 ipdb_id: 1433
 image: /assets/images/pinball/lethal-weapon-3.png
+updated: 2026-04-04
 ---
 
 # 🔫 Lethal Weapon 3 Pinball Strategy Guide

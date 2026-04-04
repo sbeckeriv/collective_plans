@@ -17,6 +17,7 @@ features:
   - SNIKT multiplier
   - BOOM button
 image: /assets/images/pinball/deadpool.png
+updated: 2026-04-04
 ---
 
 # Deadpool Pinball: The Complete Strategy Guide

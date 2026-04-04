@@ -16,6 +16,7 @@ features:
   - orbs
   - shot multipliers
 image: /assets/images/pinball/labyrinth.png
+updated: 2026-04-04
 ---
 
 # 🔮 Jim Henson's Labyrinth Pinball

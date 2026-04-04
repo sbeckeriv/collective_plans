@@ -10,6 +10,7 @@ theme: Comedy
 players: 1-4
 ipdb_id: 737
 image: /assets/images/pinball/dr-dude-and-his-excellent-ray.png
+updated: 2026-04-04
 ---
 
 # 🎸 Dr. Dude and His Excellent Ray - Ultimate Strategy Guide
