@@ -5,14 +5,25 @@ url: "https://sbeckeriv.github.io"
 
 theme: minima
 
+# --- Minima theme settings ---
+minima:
+  skin: classic
+
+header_pages:
+  - index.html
+
 # --- Files to exclude from build ---
 exclude:
   - machines/
+  - pinball.html
+  - index.md.backup
   - setup.sh
   - load.sh
   - validate-images.sh
   - standardize_manufacturers.py
   - standardize_manufacturers.sh
+  - standardize_types.py
+  - _config_production.yml  # Production override (used only in GitHub Actions)
   - README
   - Gemfile
   - Gemfile.lock
@@ -35,9 +46,10 @@ defaults:
 pagination:
   enabled: true
   collection: pinball
-  per_page: 24
+  per_page: 5  # Local development: 5 per page (use _config_production.yml for 24)
   sort_field: title
   sort_reverse: false
+  permalink: '/page:num/'
   trail:
     before: 2
     after: 2

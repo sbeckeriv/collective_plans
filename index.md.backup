@@ -10,6 +10,11 @@ title: Pinball Strategy Guides
 <!-- Filters -->
 <div class="filters">
   <div class="filter-group">
+    <label>Search:</label>
+    <input type="text" id="filter-search" placeholder="Search machines..." oninput="filterMachines()">
+  </div>
+
+  <div class="filter-group">
     <label>Manufacturer:</label>
     <select id="filter-manufacturer" onchange="filterMachines()">
       <option value="">All</option>
@@ -37,7 +42,7 @@ title: Pinball Strategy Guides
 <div class="machine-grid">
   {% for machine in site.pinball %}
   <div class="machine-card" data-manufacturer="{{ machine.manufacturer }}" data-type="{{ machine.type }}"
-    data-year="{{ machine.year }}">
+    data-year="{{ machine.year }}" data-title="{{ machine.title | downcase }}">
     {% if machine.image %}
     <a href="{{ machine.url | relative_url }}">
       <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
@@ -52,6 +57,7 @@ title: Pinball Strategy Guides
 
 <script>
   function filterMachines() {
+    const searchFilter = document.getElementById('filter-search').value.toLowerCase();
     const mfgFilter = document.getElementById('filter-manufacturer').value;
     const typeFilter = document.getElementById('filter-type').value;
 
@@ -59,13 +65,15 @@ title: Pinball Strategy Guides
     let visibleCount = 0;
 
     cards.forEach(card => {
+      const title = card.dataset.title;
       const mfg = card.dataset.manufacturer;
       const type = card.dataset.type;
 
+      const searchMatch = !searchFilter || title.includes(searchFilter);
       const mfgMatch = !mfgFilter || mfg === mfgFilter;
       const typeMatch = !typeFilter || type === typeFilter;
 
-      if (mfgMatch && typeMatch) {
+      if (searchMatch && mfgMatch && typeMatch) {
         card.style.display = '';
         visibleCount++;
       } else {
@@ -77,6 +85,7 @@ title: Pinball Strategy Guides
   }
 
   function clearFilters() {
+    document.getElementById('filter-search').value = '';
     document.getElementById('filter-manufacturer').value = '';
     document.getElementById('filter-type').value = '';
     filterMachines();
