@@ -39,7 +39,9 @@ title: Pinball Strategy Guides
   <div class="machine-card" data-manufacturer="{{ machine.manufacturer }}" data-type="{{ machine.type }}"
     data-year="{{ machine.year }}">
     {% if machine.image %}
-    <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
+    <a href="{{ machine.url | relative_url }}">
+      <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
+    </a>
     {% endif %}
     <h2><a href="{{ machine.url | relative_url }}">{{ machine.title }}</a></h2>
     <p><strong>{{ machine.manufacturer }}</strong> &bull; {{ machine.year }}</p>
