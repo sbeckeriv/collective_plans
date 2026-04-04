@@ -1,10 +1,11 @@
 Here's the `README.md` — save it to the root of your project:
 
 ```markdown
-# 🎰 Pinball Database
+# 🎰 Pinball
 
-A static site cataloguing pinball machines, built with [Jekyll](https://jekyllrb.com/)
-and the [Minima](https://github.com/jekyll/minima) theme. Hosted on GitHub Pages.
+AI-generated pinball strategy guides, built with [Jekyll](https://jekyllrb.com/)
+and the [Minima](https://github.com/jekyll/minima) theme. Hosted on GitHub Pages at
+[sbeckeriv.github.io/collective_plans](https://sbeckeriv.github.io/collective_plans/).
 
 ---
 
@@ -12,7 +13,7 @@ and the [Minima](https://github.com/jekyll/minima) theme. Hosted on GitHub Pages
 
 You'll need the following installed before getting started:
 
-- **Ruby** (version 2.7.0 or higher)
+- **Ruby** (version 3.3.0 — pinned via `.ruby-version`)
 - **RubyGems**
 - **Git**
 
@@ -80,7 +81,7 @@ This reads the `Gemfile` and installs everything needed, including:
 Start the local development server:
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll serve --baseurl ""
 ```
 
 Then open your browser and visit:
@@ -89,15 +90,17 @@ Then open your browser and visit:
 http://localhost:4000
 ```
 
+Note: The `--baseurl ""` flag is needed because the production site uses `/collective_plans` as the baseurl.
+
 The site will **automatically rebuild** whenever you save changes to any file.
 
 ### Useful flags
 
-| Flag | Description |
-|---|---|
+| Flag           | Description                           |
+| -------------- | ------------------------------------- |
 | `--livereload` | Auto-refreshes the browser on changes |
-| `--drafts` | Includes draft posts in the build |
-| `--port 5000` | Run on a different port |
+| `--drafts`     | Includes draft posts in the build     |
+| `--port 5000`  | Run on a different port               |
 
 Example with live reload:
 
@@ -132,7 +135,7 @@ image: /assets/images/pinball/your-machine.jpg
 Write a description of the machine here in plain Markdown.
 ```
 
-Place any cover images in `assets/images/pinball/`.
+Place any cover images in `assets/images/pinball/`. Images should be **256×256px** for consistency across the site.
 
 ---
 
@@ -190,20 +193,24 @@ git push
 ## Project Structure
 
 ```
-pinball-db/
+collective_plans/
 ├── _pinball/                  # One .md file per machine
 ├── _layouts/
 │   └── machine.html           # Individual machine page template
-├── _includes/                 # Reusable HTML snippets
+├── _includes/
+│   └── footer.html            # Custom footer with GitHub link
+├── _sass/
+│   └── custom.scss            # Custom styles (grid, filters, images)
 ├── assets/
-│   ├── css/custom.css         # Responsive grid & mobile styles
-│   └── images/pinball/        # Machine cover art
+│   ├── main.scss              # SCSS entry point (imports minima + custom)
+│   └── images/pinball/        # Machine cover art (256×256px)
 ├── .github/workflows/
 │   └── deploy.yml             # GitHub Actions build & deploy
 ├── _config.yml                # Jekyll configuration
+├── .ruby-version              # Ruby version (3.3.0)
 ├── Gemfile                    # Ruby dependencies
-├── index.md                   # Homepage
-└── pinball.html               # Paginated machine listing
+├── index.md                   # Homepage with machine grid
+└── pinball.html               # Filterable machine listing
 ```
 
 ---
