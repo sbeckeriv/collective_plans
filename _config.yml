@@ -9,7 +9,7 @@ theme: minima
 collections:
   pinball:
     output: true
-    permalink: /pinball/:slug/
+    permalink: /:collection/:slug/
 
 # --- Default front matter for all machines ---
 defaults:
