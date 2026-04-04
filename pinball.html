@@ -47,7 +47,7 @@ sort_reverse: false
     {% if machine.image %}
     <img src="{{ machine.image | relative_url }}" alt="{{ machine.title }}" loading="lazy">
     {% endif %}
-    <h2><a href="{{ machine.url }}">{{ machine.title }}</a></h2>
+    <h2><a href="{{ machine.url | relative_url }}">{{ machine.title }}</a></h2>
     <p><strong>{{ machine.manufacturer }}</strong> &bull; {{ machine.year }}</p>
     <p><em>{{ machine.type }}</em></p>
   </div>
