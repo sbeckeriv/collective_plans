@@ -20,36 +20,6 @@ image: /assets/images/pinball/4-aces.png
 
 # 🃏 4 Aces (Williams, 1970) — Complete Strategy Guide
 
-## 📋 Machine Overview
-
-| Attribute        | Details                        |
-| ---------------- | ------------------------------ |
-| **Manufacturer** | Williams Electronic Games Inc. |
-| **Release**      | March 1970                     |
-| **Designer**     | Steve Kordek                   |
-| **Artwork**      | Louis Raynaud                  |
-| **Type**         | Electromechanical (EM)         |
-| **Players**      | 2                              |
-| **Cabinet**      | Widebody                       |
-| **Model #**      | 354                            |
-| **Production**   | ~1,650 units                   |
-
----
-
-## 🎮 Playfield Components
-
-| Feature             | Quantity | Notes                          |
-| ------------------- | -------- | ------------------------------ |
-| **Flippers**        | 4        | Upper pair + lower pair        |
-| **Hanging Targets** | 7        | Swing-up style                 |
-| **Standup Targets** | 2        | White targets in back          |
-| **Stop Magnets**    | 2        | Electromagnets that catch ball |
-| **Slingshots**      | 2        | Standard bumpers               |
-| **Spinning Posts**  | Multiple | Deflect ball unpredictably     |
-| **Outlanes**        | 4        | Dual outlanes left AND right   |
-
----
-
 ## 🔧 Unique Features
 
 ### Stop Magnets
