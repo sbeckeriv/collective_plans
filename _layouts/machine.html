@@ -9,51 +9,20 @@ layout: default
   <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="machine-cover">
   {% endif %}
 
-  <table class="machine-meta">
-    <tbody>
-      <tr>
-        <th>Manufacturer</th>
-        <td>
-          {% if page.manufacturer_url %}
-          <a href="{{ page.manufacturer_url }}" target="_blank" rel="noopener">{{ page.manufacturer }}</a>
-          {% else %}
-          {{ page.manufacturer }}
-          {% endif %}
-        </td>
-      </tr>
-      <tr>
-        <th>Year</th>
-        <td>{{ page.year }}</td>
-      </tr>
-      <tr>
-        <th>Type</th>
-        <td>{{ page.type }}</td>
-      </tr>
-      {% if page.designer %}<tr>
-        <th>Designer</th>
-        <td>{{ page.designer }}</td>
-      </tr>{% endif %}
-      {% if page.artist %} <tr>
-        <th>Artist</th>
-        <td>{{ page.artist }}</td>
-      </tr>{% endif %}
-      {% if page.players %} <tr>
-        <th>Players</th>
-        <td>{{ page.players }}</td>
-      </tr>{% endif %}
-      {% if page.theme %} <tr>
-        <th>Theme</th>
-        <td>{{ page.theme }}</td>
-      </tr>{% endif %}
-      {% if page.ipdb_id %}
-      <tr>
-        <th>IPDB</th>
-        <td><a href="https://www.ipdb.org/machine.cgi?id={{ page.ipdb_id }}" target="_blank" rel="noopener">View on IPDB
-            &rarr;</a></td>
-      </tr>
+  <div class="machine-meta">
+    <p>
+      {% if page.manufacturer_url %}
+      <a href="{{ page.manufacturer_url }}" target="_blank" rel="noopener">{{ page.manufacturer }}</a>
+      {% else %}
+      {{ page.manufacturer }}
       {% endif %}
-    </tbody>
-  </table>
+      &bull; {{ page.year }}
+      {% if page.ipdb_id %}
+      &bull; <a href="https://www.ipdb.org/machine.cgi?id={{ page.ipdb_id }}" target="_blank" rel="noopener">IPDB
+        &rarr;</a>
+      {% endif %}
+    </p>
+  </div>
 
   {% if page.features %}
   <div class="machine-features">

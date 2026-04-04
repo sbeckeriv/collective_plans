@@ -20,23 +20,6 @@ image: /assets/images/pinball/4-aces.png
 
 # 🃏 4 Aces (Williams, 1970) — Complete Strategy Guide
 
----
-
-## ⚠️ Important Note
-
-**4 Aces is an electromechanical (EM) pinball machine** from 1970. Unlike modern DMD/LCD pinball machines, EM games do not have:
-
-- Multiballs (single ball play only)
-- Wizard modes or complex mode systems
-- Stacking mechanics
-- Progression systems or unlocks
-- Mystery awards
-- Digital scoring (uses mechanical score reels)
-
-**Maximum possible score:** ~99,990 points (mechanical reel limit)
-
----
-
 ## 📋 Machine Overview
 
 | Attribute        | Details                        |
