@@ -1,11 +1,11 @@
 ---
 title: Star Trek The Next Generation
 manufacturer: Williams
-manufacturer_url: https://en.wikipedia.org/wiki/Williams_Electronics
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1993
 designer: Steve Ritchie
 artist: Greg Freres
-type: Solid State Electronic (SS)
+type: DMD
 theme: Science Fiction, Licensed Theme
 players: 1-4
 ipdb_id: 2357

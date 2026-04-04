@@ -1,11 +1,11 @@
 ---
 title: Lethal Weapon 3
-manufacturer: Data East Pinball
-manufacturer_url: https://www.ipdb.org/machine.cgi?id=1433
+manufacturer: Data East
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=30
 year: 1992
 designer: Joe Kaminkow, Ed Cebula
 artist: Markus Rothkranz
-type: Solid State Electronic
+type: DMD
 theme: Action Movie / Buddy Cop
 players: 4
 ipdb_id: 1433

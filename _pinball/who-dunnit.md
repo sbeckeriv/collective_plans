@@ -1,11 +1,11 @@
 ---
 title: WHO Dunnit
-manufacturer: Bally/Midway Manufacturing Company
-manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=356
+manufacturer: Bally
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1995
 designer: Dwight Sullivan, Barry Oursler
 artist: Linda Deal (Doane)
-type: Solid State Electronic
+type: DMD
 theme: Murder Mystery / 1940s Noir
 players: 4
 ipdb_id: 3685

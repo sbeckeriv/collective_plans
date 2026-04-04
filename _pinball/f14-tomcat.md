@@ -1,11 +1,11 @@
 ---
 title: F-14 Tomcat
 manufacturer: Williams
-manufacturer_url: https://www.ipdb.org/search.pl?any=williams
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1987
 designer: Steve Ritchie
 artist: Doug Watson
-type: Solid State Electronic (System 11A)
+type: SS
 theme: Aviation / Military Combat
 players: 4
 ipdb_id: 804

@@ -1,11 +1,11 @@
 ---
 title: Iron Man
 manufacturer: Stern Pinball
-manufacturer_url: https://sternpinball.com/game/iron-man/
+manufacturer_url: https://sternpinball.com
 year: 2010
 designer: John Borg
 artist: Kevin O'Connor
-type: Solid State Electronic (Dot Matrix)
+type: DMD
 theme: Marvel Superhero / Comic
 players: 4
 ipdb_id: 5550

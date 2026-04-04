@@ -1,11 +1,11 @@
 ---
 title: Junk Yard
 manufacturer: Williams
-manufacturer_url: https://www.williams.com
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1996
 designer: Barry Oursler, Dwight Sullivan
 artist: Linda Deal, Pat McMahon, Paul Barker
-type: Solid State Electronic
+type: DMD
 theme: Junkyard/Inventor
 players: 4
 ipdb_id: 4014

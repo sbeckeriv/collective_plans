@@ -1,7 +1,7 @@
 ---
 title: "4 Aces"
 manufacturer: Williams
-manufacturer_url: https://www.williams.com
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1970
 designer: Steve Kordek
 artist: Louis Raynaud

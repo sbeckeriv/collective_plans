@@ -1,11 +1,11 @@
 ---
 title: Dr. Dude and His Excellent Ray
 manufacturer: Bally
-manufacturer_url: https://www.bally.com
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1990
 designer: Dennis Nordman
 artist: Greg Freres
-type: Solid State Electronic
+type: SS
 theme: Comedy
 players: 1-4
 ipdb_id: 737

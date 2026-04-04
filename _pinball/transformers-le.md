@@ -5,7 +5,7 @@ manufacturer_url: https://sternpinball.com
 year: 2011
 designer: George Gomez
 artist: Kevin O'Connor
-type: Solid State Electronic
+type: DMD
 theme: Licensed - Transformers (Hasbro)
 players: 1-4
 ipdb_id: 5753

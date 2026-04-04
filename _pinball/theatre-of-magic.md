@@ -1,11 +1,11 @@
 ---
 title: Theatre of Magic
-manufacturer: Bally (Midway)
-manufacturer_url: https://www.ipdb.org/machine.cgi?id=2845
+manufacturer: Bally
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1995
 designer: John Popadiuk
 artist: Linda Deal
-type: Solid State Electronic
+type: DMD
 theme: Magic / Illusion
 players: 1-4
 ipdb_id: 2845

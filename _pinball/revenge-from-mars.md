@@ -1,11 +1,11 @@
 ---
 title: Revenge from Mars
-manufacturer: Bally (Williams Electronics Games)
-manufacturer_url: https://www.williams-pinball.com
+manufacturer: Williams
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1999
 designer: George Gomez
 artist: Greg Freres
-type: Pinball 2000 (Solid State / Video Hybrid)
+type: Pinball 2000
 theme: Sci-Fi / Alien Invasion
 players: 1-4
 ipdb_id: 4446

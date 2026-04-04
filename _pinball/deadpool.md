@@ -1,6 +1,6 @@
 ---
 title: "Deadpool"
-manufacturer: Stern
+manufacturer: Stern Pinball
 manufacturer_url: https://sternpinball.com
 year: 2018
 designer: Lonnie Ropp

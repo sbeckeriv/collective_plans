@@ -1,11 +1,11 @@
 ---
 title: Avengers Infinity Quest Pro
-manufacturer: Stern
-manufacturer_url: https://sternpinball.com/game/avengers-infinity-quest/
+manufacturer: Stern Pinball
+manufacturer_url: https://sternpinball.com
 year: 2020
 designer: Keith Elwin
 artist: Jeremy Packer (Zombie Yeti)
-type: Solid State Electronic
+type: LCD
 theme: Superheroes
 players: 4
 ipdb_id: 6756

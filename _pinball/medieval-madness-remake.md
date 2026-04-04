@@ -5,7 +5,7 @@ manufacturer_url: https://www.chicago-gaming.com
 year: 2015
 designer: Brian Eddy
 artist: Greg Freres, John Youssi
-type: Solid State Electronic
+type: DMD
 theme: Medieval Fantasy / Comedy
 players: 4
 ipdb_id: 6264

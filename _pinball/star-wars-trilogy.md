@@ -1,11 +1,11 @@
 ---
 title: Star Wars Trilogy
 manufacturer: Sega Pinball
-manufacturer_url: https://en.wikipedia.org/wiki/Sega_Pinball
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=107
 year: 1997
 designer: Joe Kaminkow, Joe Balcer
 artist: Morgan Weistling
-type: Solid State Electronic
+type: DMD
 theme: Licensed Theme - Star Wars Original Trilogy
 players: 4
 ipdb_id: 4054

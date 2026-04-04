@@ -1,11 +1,11 @@
 ---
 title: Spy Hunter
-manufacturer: Bally Manufacturing Co.
-manufacturer_url: https://www.ipdb.org/machine.cgi?id=2328
+manufacturer: Bally
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1984
 designer: Greg Kmiec
 artist: Tony Ramunni
-type: Solid State Electronic
+type: SS
 theme: Spy / Secret Agent
 players: 4
 ipdb_id: 2328

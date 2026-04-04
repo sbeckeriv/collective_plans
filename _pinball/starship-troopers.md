@@ -1,7 +1,7 @@
 ---
 title: "Starship Troopers"
-manufacturer: Sega
-manufacturer_url: https://www.sega.com
+manufacturer: Sega Pinball
+manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=107
 year: 1997
 designer: Jon Norris
 artist: Kevin O'Connor
