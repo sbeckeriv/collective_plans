@@ -6,14 +6,20 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   {% if page.image %}
-  <img src="{{ page.image }}" alt="{{ page.title }}" class="machine-cover">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" class="machine-cover">
   {% endif %}
 
   <table class="machine-meta">
     <tbody>
       <tr>
         <th>Manufacturer</th>
-        <td>{{ page.manufacturer }}</td>
+        <td>
+          {% if page.manufacturer_url %}
+          <a href="{{ page.manufacturer_url }}" target="_blank" rel="noopener">{{ page.manufacturer }}</a>
+          {% else %}
+          {{ page.manufacturer }}
+          {% endif %}
+        </td>
       </tr>
       <tr>
         <th>Year</th>

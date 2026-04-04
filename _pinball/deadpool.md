@@ -1,6 +1,7 @@
 ---
 title: "Deadpool"
 manufacturer: Stern
+manufacturer_url: https://sternpinball.com
 year: 2018
 designer: Lonnie Ropp
 artist: Christopher Franchi
