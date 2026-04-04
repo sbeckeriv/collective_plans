@@ -20,6 +20,37 @@ image: /assets/images/pinball/4-aces.png
 
 # 🃏 4 Aces (Williams, 1970) — Complete Strategy Guide
 
+---
+
+## 📋 Table of Contents
+
+- [🃏 4 Aces (Williams, 1970) — Complete Strategy Guide](#-4-aces-williams-1970--complete-strategy-guide)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🔧 Unique Features](#-unique-features)
+    - [Stop Magnets](#stop-magnets)
+    - [Flipper Sequencing](#flipper-sequencing)
+    - [Ball Launch](#ball-launch)
+  - [🎯 Core Scoring Mechanics](#-core-scoring-mechanics)
+    - [Building Bonus](#building-bonus)
+    - [Collecting Bonus](#collecting-bonus)
+    - [Card Advance (Carryover Feature)](#card-advance-carryover-feature)
+  - [⚠️ Shot Analysis](#️-shot-analysis)
+    - [🔴 Dangerous Areas](#-dangerous-areas)
+    - [🟢 Safer Shots](#-safer-shots)
+    - [🎯 Flipper Tips](#-flipper-tips)
+  - [🏆 Scoring Strategy](#-scoring-strategy)
+    - [Priority Order](#priority-order)
+    - [Early Game](#early-game)
+    - [Mid Game](#mid-game)
+    - [Late Game](#late-game)
+  - [🎰 Realistic Scoring Goals](#-realistic-scoring-goals)
+  - [🔧 Setup Recommendations](#-setup-recommendations)
+  - [📝 Quick Reference Card](#-quick-reference-card)
+  - [✅ New Player Checklist](#-new-player-checklist)
+  - [🎲 Fun Facts](#-fun-facts)
+
+---
+
 ## 🔧 Unique Features
 
 ### Stop Magnets

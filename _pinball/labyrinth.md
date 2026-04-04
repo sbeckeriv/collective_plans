@@ -23,6 +23,24 @@ image: /assets/images/pinball/labyrinth.png
 
 ---
 
+## 📋 Table of Contents
+
+1. [Quick Reference](#-quick-reference)
+2. [Skill Shots](#-skill-shots)
+3. [Modes](#-modes)
+4. [Multiballs](#-multiballs)
+5. [Friends System](#-friends-system)
+6. [Orbs & Shot Multipliers](#-orbs--shot-multipliers)
+7. [Wizard Modes](#-wizard-modes)
+8. [Feature Stacking](#-feature-stacking)
+9. [Dangerous vs Safe Shots](#-dangerous-vs-safe-shots)
+10. [Path to 1 Billion Points](#-path-to-1-billion-points)
+11. [Does Completing Modes Change Gameplay?](#-does-completing-modes-change-gameplay)
+12. [Additional Tips](#-additional-tips)
+13. [Quick Start Checklist](#-quick-start-checklist)
+
+---
+
 ## 📋 Quick Reference
 
 | Goal            | Requirement                  |

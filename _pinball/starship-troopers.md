@@ -24,15 +24,15 @@ image: /assets/images/pinball/starship-troopers.png
 ---
 
 ## 📋 TABLE OF CONTENTS
-1. [Core Mechanics](#core-mechanics)
-2. [Multiballs](#multiballs)
-3. [Progression Systems](#progression-systems)
-4. [Stacking & Combos](#stacking--combos)
-5. [Wizard Mode: Klendathu](#wizard-mode-klendathu)
-6. [Shot Analysis](#shot-analysis)
-7. [Scoring Strategy](#scoring-strategy)
-8. [Additional Info](#additional-info)
-9. [Quick-Start Checklist](#quick-start-checklist)
+1. [Core Mechanics](#-core-mechanics)
+2. [Multiballs](#-multiballs)
+3. [Progression Systems](#-progression-systems)
+4. [Stacking & Combos](#-stacking--combos)
+5. [Wizard Mode: Klendathu](#-wizard-mode-klendathu)
+6. [Shot Analysis](#-shot-analysis)
+7. [Scoring Strategy](#-scoring-strategy)
+8. [Additional Info](#-additional-info)
+9. [Quick-Start Checklist](#-quick-start-checklist)
 
 ---
 
