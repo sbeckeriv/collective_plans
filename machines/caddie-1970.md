@@ -5,5 +5,8 @@ manufacturer: Playmatic
 year: 1970
 manufacture_date: 1970-01-01
 ipdb_id: 417
+players: 1
+type: EM
+theme: "Sports - Golf"
 image: /assets/images/pinball/caddie-1970.jpg
 ---

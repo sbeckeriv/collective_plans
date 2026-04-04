@@ -5,5 +5,9 @@ manufacturer: Exhibit Supply
 year: 1950
 manufacture_date: 1950-08-01
 ipdb_id: 1826
+players: 1
+type: EM
+theme: "Recreation - Swimming - Women - Girls"
+notable_features: "Reversed flippers (2), Pop bumpers (2), Passive bumpers (6), Kick-out holes (3). Replay wheel maximum: 47 "
 image: /assets/images/pinball/playland.jpg
 ---

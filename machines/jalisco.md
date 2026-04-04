@@ -5,4 +5,7 @@ manufacturer: Recreativos Franco
 year: 1976
 manufacture_date: 1976-01-01
 ipdb_id: 4667
+players: 1
+type: EM
+theme: "Mexico"
 ---

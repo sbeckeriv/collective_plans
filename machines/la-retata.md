@@ -5,6 +5,9 @@ manufacturer: Geiger
 year: 1992
 manufacture_date: 1992-01-01
 ipdb_id: 4440
+players: 4
+type: SS
+artist: "Michele \"Mike\" Martinelli"
 features:
   - "Conversion kit"
 image: /assets/images/pinball/la-retata.jpg

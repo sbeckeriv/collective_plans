@@ -5,5 +5,9 @@ manufacturer: Sega Pinball
 year: 1999
 manufacture_date: 1999-01-09
 ipdb_id: 4453
+players: 6
+type: SS
+theme: "Licensed Theme - Motorcycles"
+model_number: "67"
 image: /assets/images/pinball/harley-davidson-1999-G56lO-Mx00O.jpg
 ---

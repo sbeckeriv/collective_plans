@@ -5,5 +5,7 @@ manufacturer: Bell Games
 year: 1981
 manufacture_date: 1981-01-01
 ipdb_id: 3705
+players: 4
+type: SS
 image: /assets/images/pinball/flash-gordon-1981.jpg
 ---

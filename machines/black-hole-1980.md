@@ -5,5 +5,8 @@ manufacturer: Giuliano Lodola
 year: 1980
 manufacture_date: 1980-01-01
 ipdb_id: 4087
+players: 4
+type: SS
+theme: "Outer Space - Space Fantasy"
 image: /assets/images/pinball/black-hole-1980.jpg
 ---

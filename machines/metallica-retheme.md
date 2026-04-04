@@ -5,6 +5,9 @@ manufacturer: Williams
 year: 2013
 manufacture_date: 2013-01-01
 ipdb_id: 5478
+players: 4
+type: SS
+theme: "Music - People"
 features:
   - "Converted game"
 ---

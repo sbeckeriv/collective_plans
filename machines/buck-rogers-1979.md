@@ -5,6 +5,8 @@ manufacturer: Mambelli
 year: 1979
 manufacture_date: 1979-01-01
 ipdb_id: 4999
+players: 1
+type: EM
 features:
   - "Conversion kit"
 image: /assets/images/pinball/buck-rogers-1979.jpg

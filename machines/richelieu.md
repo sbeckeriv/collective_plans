@@ -5,4 +5,8 @@ manufacturer: North Star
 year: 1949
 manufacture_date: 1949-01-01
 ipdb_id: 4549
+players: 1
+type: EM
+designer: "Jacques Tremblay"
+artist: "Louis L�ger"
 ---

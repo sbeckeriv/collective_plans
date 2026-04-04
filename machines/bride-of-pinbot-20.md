@@ -6,6 +6,9 @@ manufacturer: Dutch Pinball
 year: 2014
 manufacture_date: 2014-11-01
 ipdb_id: 6319
+players: 4
+type: SS
+theme: "Fantasy - Outer Space"
 features:
   - "Conversion kit"
 image: /assets/images/pinball/bride-of-pinbot-20.jpg

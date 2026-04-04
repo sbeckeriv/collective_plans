@@ -5,5 +5,10 @@ manufacturer: Zaccaria
 year: 1978
 manufacture_date: 1978-01-01
 ipdb_id: 3637
+players: 1
+type: SS
+theme: "Winter - Skiing"
+artist: "Lorenzo Rimondini"
+notable_features: "Flippers (3). "
 image: /assets/images/pinball/ski-jump-1978-G59y1-MQ2VY.jpg
 ---

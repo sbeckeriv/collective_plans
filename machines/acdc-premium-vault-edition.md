@@ -6,6 +6,11 @@ manufacturer: Stern Pinball
 year: 2017
 manufacture_date: 2017-07-01
 ipdb_id: 6440
+players: 4
+type: SS
+theme: "Licensed Theme - Music"
+designer: "Steve Ritchie"
+model_number: "PINBALL I-00C7 * ACDC PREM VAULT"
 features:
   - "Premium edition"
   - "Vault edition"

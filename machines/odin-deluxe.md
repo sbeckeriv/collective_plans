@@ -6,4 +6,8 @@ manufacturer: Segasa
 year: 1985
 manufacture_date: 1985-01-01
 ipdb_id: 3448
+players: 4
+type: SS
+theme: "Norse Mythology"
+designer: "Eulogio Pingarr�n"
 ---

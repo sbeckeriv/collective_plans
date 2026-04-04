@@ -5,4 +5,7 @@ manufacturer: Williams
 year: 1955
 manufacture_date: 1955-04-01
 ipdb_id: 3816
+players: 1
+type: EM
+model_number: "127"
 ---

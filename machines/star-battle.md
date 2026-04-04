@@ -5,6 +5,8 @@ manufacturer: Cisco
 year: 1978
 manufacture_date: 1978-03-01
 ipdb_id: 2344
+players: 2
+type: SS
 features:
   - "Cocktail table"
 image: /assets/images/pinball/star-battle.jpg

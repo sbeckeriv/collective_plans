@@ -5,5 +5,8 @@ manufacturer: Maquinas Recreativas
 year: 1968
 manufacture_date: 1968-01-01
 ipdb_id: 5818
+players: 1
+type: EM
+theme: "Amusement Park"
 image: /assets/images/pinball/tiros.jpg
 ---

@@ -5,5 +5,12 @@ manufacturer: Chicago Coin
 year: 1969
 manufacture_date: 1969-01-01
 ipdb_id: 1804
+players: 1
+type: EM
+theme: "Pirates"
+designer: "Al Schlappa, Jerry Koci, John Gore"
+artist: "Christian Marche"
+model_number: "366"
+notable_features: "Flippers (2), Pop bumpers (3), Kick-out holes (2), Horseshoe lane. "
 image: /assets/images/pinball/pirate-gold.jpg
 ---

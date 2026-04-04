@@ -5,5 +5,10 @@ manufacturer: Genco
 year: 1948
 manufacture_date: 1948-01-14
 ipdb_id: 2650
+players: 1
+type: EM
+theme: "Girls - Women"
+designer: "Steve Kordek"
+notable_features: "Flippers (2), Passive bumpers (12), Kick-out hole (1), Time clock. Sound: 2 bells "
 image: /assets/images/pinball/triple-action-1948.jpg
 ---
