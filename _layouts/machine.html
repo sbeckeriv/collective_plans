@@ -6,23 +6,45 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   {% if page.image %}
-    <img src="{{ page.image }}" alt="{{ page.title }}" class="machine-cover">
+  <img src="{{ page.image }}" alt="{{ page.title }}" class="machine-cover">
   {% endif %}
 
   <table class="machine-meta">
     <tbody>
-      <tr><th>Manufacturer</th><td>{{ page.manufacturer }}</td></tr>
-      <tr><th>Year</th>        <td>{{ page.year }}</td></tr>
-      <tr><th>Type</th>        <td>{{ page.type }}</td></tr>
-      {% if page.designer %}<tr><th>Designer</th>  <td>{{ page.designer }}</td></tr>{% endif %}
-      {% if page.artist %}  <tr><th>Artist</th>    <td>{{ page.artist }}</td></tr>{% endif %}
-      {% if page.players %} <tr><th>Players</th>   <td>{{ page.players }}</td></tr>{% endif %}
-      {% if page.theme %}   <tr><th>Theme</th>     <td>{{ page.theme }}</td></tr>{% endif %}
+      <tr>
+        <th>Manufacturer</th>
+        <td>{{ page.manufacturer }}</td>
+      </tr>
+      <tr>
+        <th>Year</th>
+        <td>{{ page.year }}</td>
+      </tr>
+      <tr>
+        <th>Type</th>
+        <td>{{ page.type }}</td>
+      </tr>
+      {% if page.designer %}<tr>
+        <th>Designer</th>
+        <td>{{ page.designer }}</td>
+      </tr>{% endif %}
+      {% if page.artist %} <tr>
+        <th>Artist</th>
+        <td>{{ page.artist }}</td>
+      </tr>{% endif %}
+      {% if page.players %} <tr>
+        <th>Players</th>
+        <td>{{ page.players }}</td>
+      </tr>{% endif %}
+      {% if page.theme %} <tr>
+        <th>Theme</th>
+        <td>{{ page.theme }}</td>
+      </tr>{% endif %}
       {% if page.ipdb_id %}
-        <tr>
-          <th>IPDB</th>
-          <td><a href="https://www.ipdb.org/machine.cgi?id={{ page.ipdb_id }}" target="_blank" rel="noopener">View on IPDB &rarr;</a></td>
-        </tr>
+      <tr>
+        <th>IPDB</th>
+        <td><a href="https://www.ipdb.org/machine.cgi?id={{ page.ipdb_id }}" target="_blank" rel="noopener">View on IPDB
+            &rarr;</a></td>
+      </tr>
       {% endif %}
     </tbody>
   </table>
@@ -41,4 +63,4 @@ layout: default
   </div>
 </article>
 
-<p><a href="/pinball/">&larr; Back to all machines</a></p>
+<p><a href="{{ site.baseurl }}/pinball/">&larr; Back to all machines</a></p>
