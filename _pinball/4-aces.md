@@ -171,17 +171,16 @@ The bonus collection system uses a **color-matching mechanic**:
 ---
 
 ## 📝 Quick Reference Card
-┌─────────────────────────────────────────┐
-│ 4 ACES QUICK STRATEGY │
-├─────────────────────────────────────────┤
-│ 1. Build bonus: Spin disk + white targets│
-│ 2. Black bonus: Spade+Club → white target│
-│ 3. Red bonus: Heart+Diamond → white target│
-│ 4. A+B targets → lights outlane card advance│
-│ 5. All cards lit = SPECIAL (free game) │
-│ 6. Watch for dual outlanes on BOTH sides!│
-│ 7. Upper flippers fire FIRST │
-└─────────────────────────────────────────┘
+
+**4 Aces Quick Strategy:**
+
+1. **Build bonus:** Spin disk + white targets
+2. **Black bonus:** Spade+Club → white target
+3. **Red bonus:** Heart+Diamond → white target
+4. **A+B targets** → lights outlane card advance
+5. **All cards lit** = SPECIAL (free game)
+6. **Watch for dual outlanes** on BOTH sides!
+7. **Upper flippers fire FIRST**
 
 ---
 

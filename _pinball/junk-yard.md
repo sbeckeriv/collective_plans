@@ -433,15 +433,14 @@ Practice this shot! The Super Skill Shot exists specifically to encourage Sewer 
 
 ### 🏆 Path to 1 Billion
 
-```
-Target Breakdown:
-├── 3-4 Outer Space runs: 100-200M each = 400-800M
-├── 10+ Super Jackpots: 3M each = 30M+
-├── Time Machine modes: 50-100M
-├── Adventures completion: 50-100M
-├── End-of-ball bonuses (6X): 50-100M
-└── General play: 100M+
-```
+**Target Breakdown:**
+
+- **3-4 Outer Space runs:** 100-200M each = 400-800M
+- **10+ Super Jackpots:** 3M each = 30M+
+- **Time Machine modes:** 50-100M
+- **Adventures completion:** 50-100M
+- **End-of-ball bonuses (6X):** 50-100M
+- **General play:** 100M+
 
 **Key:** Reach Outer Space multiple times. After completing it, all adventures re-light, so you can loop back through the progression!
 
@@ -501,13 +500,8 @@ Junk Yard contains modes from classic Williams titles <kcite ref="189"/>:
 ### 📊 End-of-Ball Bonus
 
 Calculated as <kcite ref="45"/>:
-```
-(Junk items × 10-25K each)
-+ (Completed contraptions bonus)
-+ (Fireworks × 25K)
-+ (Modes played bonus)
-× Bonus Multiplier (1X-6X)
-```
+
+**(Junk items × 10-25K each) + (Completed contraptions bonus) + (Fireworks × 25K) + (Modes played bonus) × Bonus Multiplier (1X-6X)**
 
 **After Outer Space:** Junk bonus replaced by 250K + extra 250K if Bob defeated.
 

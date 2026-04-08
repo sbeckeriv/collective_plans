@@ -463,29 +463,29 @@ Unlocks after playing Sauron Multiball AND completing both Quests:
 
 ### Progression Checklist
 
-1. ☐ Defeat Sabretooth, Mystique, Juggernaut
-2. ☐ Play Sauron Multiball
-3. ☐ Defeat all 3 villains again (Level 2 with Sauron)
-4. ☐ Play Clone Multiball
-5. ☐ Complete T-Rex Quest
-6. ☐ Complete Megalodon Quest
-7. ☐ Play Megakrakolodonus Rex
-8. ☐ Play Mechsuit Multiball
-9. ☐ **THE FINAL BATTLE** (Mr. Sinister) 🎉
+- [ ] **Defeat Sabretooth, Mystique, Juggernaut**
+- [ ] **Play Sauron Multiball**
+- [ ] **Defeat all 3 villains again** (Level 2 with Sauron)
+- [ ] **Play Clone Multiball**
+- [ ] **Complete T-Rex Quest**
+- [ ] **Complete Megalodon Quest**
+- [ ] **Play Megakrakolodonus Rex**
+- [ ] **Play Mechsuit Multiball**
+- [ ] **THE FINAL BATTLE** (Mr. Sinister) 🎉
 
 ---
 
 ## Quick Scoring Checklist for 1 Billion
 
-1. ✅ **Super Skill Shot** at game start (5M)
-2. ✅ Progress **Lil' Deadpool** during ball save
-3. ✅ Qualify **2+ Team-Ups** (especially Colossus)
-4. ✅ **Stack Lil' Deadpool MB into Juggernaut**
-5. ✅ Hit **SNIKT → right ramp** before big jackpots
-6. ✅ Complete ramp diamonds for **Katanarama Time**
-7. ✅ Progress through all 3 battles → unlocks wizard modes for huge scoring
-8. ✅ Save **BOOM** for high-value moments (Mystique combo, Sauron MB, Berserker Rage)
-9. ✅ Don't forget **Colossal Jackpot** — combo from U-turn for double value
+- [ ] **Super Skill Shot** at game start (5M)
+- [ ] Progress **Lil' Deadpool** during ball save
+- [ ] Qualify **2+ Team-Ups** (especially Colossus)
+- [ ] **Stack Lil' Deadpool MB into Juggernaut**
+- [ ] Hit **SNIKT → right ramp** before big jackpots
+- [ ] Complete ramp diamonds for **Katanarama Time**
+- [ ] Progress through all 3 battles → unlocks wizard modes for huge scoring
+- [ ] Save **BOOM** for high-value moments (Mystique combo, Sauron MB, Berserker Rage)
+- [ ] Don't forget **Colossal Jackpot** — combo from U-turn for double value
 
 ---
 

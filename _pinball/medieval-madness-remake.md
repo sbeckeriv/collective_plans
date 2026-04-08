@@ -313,6 +313,7 @@ Collected at Merlin's Saucer when lit (relit by completing 3 red standups) <kcit
 - 1 shot to each Troll
 
 **Scoring:**
+
 | Shot                    | Award                                                                |
 | ----------------------- | -------------------------------------------------------------------- |
 | 1st shot to each target | 200K + 1 completion (Catapult Slam, etc.)                            |
@@ -517,25 +518,23 @@ The author of the main rulesheet achieved **1.11 billion** with unlimited extra 
 
 ## 🏆 Summary: The Path to Glory
 
-```
-Ball 1-2: Build Resources
-├── Light Trolls! (don't start yet)
-├── Get 2+ Troll Bombs
-├── Light 3-4 Madnesses
-└── Destroy Castles 1-2
+**Ball 1-2: Build Resources**
+- Light Trolls! (don't start yet)
+- Get 2+ Troll Bombs
+- Light 3-4 Madnesses
+- Destroy Castles 1-2
 
-Ball 2-3: Execute
-├── Light 5th Madness
-├── Start Trolls! + Multiball Madness together
-├── Destroy Castles 3-5
-└── Collect Extra Balls
+**Ball 2-3: Execute**
+- Light 5th Madness
+- Start Trolls! + Multiball Madness together
+- Destroy Castles 3-5
+- Collect Extra Balls
 
-Ball 3+: Wizard Modes
-├── Complete Royal Madness (EB!)
-├── Destroy King's Castle
-├── Battle for the Kingdom (100M+)
-└── Victory Laps → Repeat BfK
-```
+**Ball 3+: Wizard Modes**
+- Complete Royal Madness (EB!)
+- Destroy King's Castle
+- Battle for the Kingdom (100M+)
+- Victory Laps → Repeat BfK
 
 > 🎯 **Remember:** "The average value of a shot to the Castle is worth more than the average value of a shot during almost all Multiball Madnesses" <kcite ref="62"/>. Don't neglect Castle destruction!
 

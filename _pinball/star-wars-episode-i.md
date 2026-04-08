@@ -657,9 +657,14 @@ The saucers (Junk Shop + Market) share the same random award pool. Priority targ
 Spelling JAR-JAR via Gungan Jets + Right Ramp awards **19,992,510 points** — encoding 25-10-1999 (October 25, 1999), the day WMS Industries announced the closure of its pinball division.
 
 #### 💰 Free Credits Flipper Code
+
 At the attract mode / start screen, enter:
+
 `B → 24R → 1L → 9R → 1L → 14R → 1L → 1R → 1L`
+
 *(Spells "XINA" = Xina Is Not Appl)*
+
+> **Note:** B = Start Button, L = Left Flipper, R = Right Flipper. Numbers indicate how many presses (e.g., "24R" = press right flipper 24 times).
 
 #### 🔫 Super Duper Secret STAP Bonus
 In Ground Battle, press **both laser buttons simultaneously** the instant a wave begins (before any druids spawn) to earn **1,000,000 bonus points** in one action.

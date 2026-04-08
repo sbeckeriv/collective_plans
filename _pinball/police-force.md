@@ -160,9 +160,9 @@ During multiball, hit **both the center ramp AND right ramp simultaneously** for
 
 ### Criminal Capture Cycle
 
-```
+
 Jail 4 Criminals → Jackpot Lit (15 sec) → Collect or Miss → Criminals Released → Repeat
-```
+
 
 Progress resets each time you collect the jackpot or the timer expires <kcite ref="77"/>.
 
@@ -251,19 +251,19 @@ On the competition ROM, shooting the right ramp twice on Ball 3 instead maxes th
 ### Playfield Layout
 
 ```
-        [G-U-N Rollovers]
-    [EB/Top Cop]  [Pop Bumpers]
-         \          /
+          [G-U-N Rollovers]
+      [EB/Top Cop]  [Pop Bumpers]
+            \          /
     [Croc Kickout]  [Spinner/Skill Shot]
-           \        |
-    [Loan Shark]   [Police Car Lock]
-      Targets      [Right Ramp →]
-         \         /
-    [Center Ramp ↑]  [Weasel Targets]
-         \         /
-    [Drug Rat Targets]
-         \       /
-    [LEFT FLIPPER] ═══ [CENTER POST] ═══ [RIGHT FLIPPER]
+              \        |
+       [Loan Shark]   [Police Car Lock]
+         Targets      [Right Ramp →]
+              \         /
+       [Center Ramp ↑]  [Weasel Targets]
+              \         /
+          [Drug Rat Targets]
+              \       /
+      [LEFT FLIPPER] ═══ [CENTER POST] ═══ [RIGHT FLIPPER]
 ```
 
 ### 🟢 Safe Shots
@@ -399,23 +399,21 @@ If playing on the Richie Tournament ROM <kcite ref="47"/>:
 
 ## 📱 Quick Reference Card
 
-```
-┌─────────────────────────────────────────────┐
-│           POLICE FORCE QUICK REF            │
-├─────────────────────────────────────────────┤
-│ 🎯 PRIMARY: Center Ramp → Unlimited Millions│
-│ 💰 JACKPOT: Jail 4 criminals → Right Ramp   │
-│ 🎱 MULTIBALL: Lock 2 balls at Right Ramp    │
-│ ⭐ BALL 3: Right Ramp x2 = DOUBLE SCORE!   │
-├─────────────────────────────────────────────┤
-│ Criminals: Shark(L) Croc(saucer) Rat(C) Weasel(R)│
-│ POLICE: Right ramp when lock not lit        │
-│ Top Cop: Spell POLICE → orbit shot = 3M     │
-│ GUN: Top lanes → bonus multiplier (max 6X)  │
-├─────────────────────────────────────────────┤
-│ ⚠️ CENTER POST BETWEEN FLIPPERS!           │
-└─────────────────────────────────────────────┘
-```
+**Police Force Quick Strategy:**
+
+**Primary Focus:**
+- 🎯 **Center Ramp** → Unlimited Millions
+- 💰 **Jackpot:** Jail 4 criminals → Right Ramp
+- 🎱 **Multiball:** Lock 2 balls at Right Ramp
+- ⭐ **Ball 3 Special:** Right Ramp ×2 = DOUBLE SCORE!
+
+**Key Targets:**
+- **Criminals:** Shark (L), Croc (saucer), Rat (C), Weasel (R)
+- **POLICE:** Right ramp when lock not lit
+- **Top Cop:** Spell POLICE → orbit shot = 3M
+- **G-U-N:** Top lanes → bonus multiplier (max 6X)
+
+> ⚠️ **Important:** CENTER POST BETWEEN FLIPPERS!
 
 ---
 

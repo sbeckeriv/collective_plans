@@ -319,15 +319,14 @@ The right ramp awards various bonuses including:
 
 ## ⚡ Quick-Start Checklist
 
-```
-□ Plunge for skill shot (lit lane guides)
-□ Shoot spinner from right flipper
-□ Go through UNLIT top lanes to spot targets
-□ Complete target banks to light locks
-□ Lock 3 balls on right ramp → Multiball
-□ During MB: Build jackpot with spinner, THEN collect
-□ NEVER shoot standups directly!
-□ Use captive ball or Jones to relight kickback
+- [ ] **Plunge for skill shot** (lit lane guides)
+- [ ] **Shoot spinner** from right flipper
+- [ ] **Go through UNLIT top lanes** to spot targets
+- [ ] **Complete target banks** to light locks
+- [ ] **Lock 3 balls** on right ramp → Multiball
+- [ ] During MB: **Build jackpot with spinner, THEN collect**
+- [ ] **NEVER shoot standups directly!**
+- [ ] **Use captive ball or Jones** to relight kickback
 □ Work toward 14 jump ramps for Everything is Lit
 ```
 

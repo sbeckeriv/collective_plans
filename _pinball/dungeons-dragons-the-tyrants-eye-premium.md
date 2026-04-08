@@ -169,6 +169,7 @@ After defeating Rath, remaining balls continue with victory lap jackpots worth 5
 - Encounters: Battles, traps (end run), treasure rooms, stairs down
 
 **Dungeon Levels:**
+
 | Level | Reward                               |
 | ----- | ------------------------------------ |
 | 1     | Extra Ball in Award Room             |

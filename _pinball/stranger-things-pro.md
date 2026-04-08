@@ -83,34 +83,40 @@ Six objectives must be solidly lit to qualify **Final Showdown** <kcite ref="21"
 ### Season 1 Chapters (Orange)
 
 #### 📍 Where's Barb? (40 sec)
+
 | Objective                       | Scoring                          | +2 Drawings                    |
 | ------------------------------- | -------------------------------- | ------------------------------ |
 | Find Barb at random shot        | Shots: 1M (+250K each miss)      | Find Barb on first shot (40M!) |
 | Shoot saucer to reveal location | Saucer: 2M, Finding Barb: 5M-10M |                                |
 
 #### 🔫 Monster Hunting (45 sec)
+
 | Objective               | Scoring                               | +2 Drawings |
 | ----------------------- | ------------------------------------- | ----------- |
 | 5 waves of drop targets | Wave 1-5: 1M/1.5M/2M/2.5M/3M per drop | N/A         |
 | Final center shot       | 7M-28M based on drops hit in wave 5   |             |
 
 #### 👊 Bullies (45 sec)
+
 | Objective                          | Scoring                    | +2 Drawings                                      |
 | ---------------------------------- | -------------------------- | ------------------------------------------------ |
 | Shoot 4 major shots → left standup | 1.5M/2M/2.5M/3M → 7M final | Shoot in order: R ramp, L ramp, R orbit, L orbit |
 
 #### 🚪 Get Me Out! (40 sec)
+
 | Objective                     | Scoring                       | +2 Drawings                               |
 | ----------------------------- | ----------------------------- | ----------------------------------------- |
 | Shoot lit shots OR drops only | Lit shots: 1M-2.5M, Final: 3M | Complete using only drop targets (5 sets) |
 
 #### 🌲 Operation Mirkwood (70 sec)
+
 | Objective                          | Scoring                       | +2 Drawings                       |
 | ---------------------------------- | ----------------------------- | --------------------------------- |
 | Collect 10 items via ramps         | 1M per ramp (+1M combo bonus) | Make 5-way combo using only ramps |
 | 10th item: 10M (20M if all combos) |                               |                                   |
 
 #### 🧭 Follow The Compass (40 sec)
+
 | Objective                        | Scoring                    | +2 Drawings                    |
 | -------------------------------- | -------------------------- | ------------------------------ |
 | Shoot 4 lit shots → left standup | 1.5M/2M/2.5M/3M → 7M final | Complete without using spinner |
@@ -120,32 +126,38 @@ Six objectives must be solidly lit to qualify **Final Showdown** <kcite ref="21"
 ### Season 2 Chapters (Yellow)
 
 #### 🎮 Quarter Hunt (45 sec)
+
 | Objective                                  | Scoring                                   | +2 Drawings           |
 | ------------------------------------------ | ----------------------------------------- | --------------------- |
 | All switches score, level up every 25 hits | 50K per switch, Level ups: 1M/2.5M/5M/10M | Complete all 4 levels |
 | Ramps increase switch value by 25K         |                                           |                       |
 
 #### 💀 Save Will (40 sec)
+
 | Objective                                               | Scoring               | +2 Drawings                           |
 | ------------------------------------------------------- | --------------------- | ------------------------------------- |
 | Combo: R ramp → L orbit → L ramp → Burn it Back → final | Hurry-ups: 2M-3M each | Complete entire mode as combo (+50M!) |
 
 #### 📻 What Mama Says (40 sec)
+
 | Objective                          | Scoring        | +2 Drawings               |
 | ---------------------------------- | -------------- | ------------------------- |
 | Shoot 5 shots, flashing = 2× value | 1M-3M per shot | Only shoot flashing shots |
 
 #### 📡 Morse Code (45 sec)
+
 | Objective                                 | Scoring         | +2 Drawings                         |
 | ----------------------------------------- | --------------- | ----------------------------------- |
 | Complete message via orbits/spinner/ramps | ~16M completion | Finish using only right orbit shots |
 
 #### 🦎 Lure Dart (40 sec)
+
 | Objective                                  | Scoring                           | +2 Drawings                             |
 | ------------------------------------------ | --------------------------------- | --------------------------------------- |
 | Shoot orbits + Burn it Back → left standup | 3M-5M start (based on Dart level) | Shoot: Burn it Back → R orbit → L orbit |
 
 #### 🔥 Turn Up the Heat (40 sec)
+
 | Objective                               | Scoring                              | +2 Drawings                                         |
 | --------------------------------------- | ------------------------------------ | --------------------------------------------------- |
 | Raise temperature via inner shots/ramps | Inner: 2M, Ramps: 1M, Standups: 500K | Only shoot flashing shots (inner loop/left standup) |

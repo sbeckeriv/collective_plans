@@ -638,33 +638,20 @@ Completing JAR JAR awards **19,992,510 points** - representing **25-10-1999**, t
 
 ## 🏆 Summary: The Path to Glory
 
-```
-┌─────────────────────────────────────────┐
-│         STAR WARS EPISODE I             │
-│         MASTERY FLOWCHART               │
-├─────────────────────────────────────────┤
-│                                         │
-│  1. SKILL SHOT ──────────────────────┐  │
-│         ↓                            │  │
-│  2. START MODE ←─────────────────────┤  │
-│         ↓                            │  │
-│  3. LOCK BALLS (opportunistically)   │  │
-│         ↓                            │  │
-│  4. MULTIBALL + MODE STACK           │  │
-│         ↓                            │  │
-│  5. JACKPOT CYCLES (10M each)        │  │
-│         ↓                            │  │
-│  6. SPELL J-E-D-I                    │  │
-│         ↓                            │  │
-│  7. SABER BATTLE → JEDI RANK UP      │  │
-│         ↓                            │  │
-│  8. REPEAT ──────────────────────────┘  │
-│                                         │
-│  ══════════════════════════════════════ │
-│  JEDI YOUTH → KNIGHT → MASTER → SPIRIT  │
-│  ══════════════════════════════════════ │
-└─────────────────────────────────────────┘
-```
+**Star Wars Episode I Mastery Flowchart:**
+
+1. **SKILL SHOT** → Launch perfectly into R2-D2 lane
+2. **START MODE** → Begin missions immediately
+3. **LOCK BALLS** (opportunistically) → When safe, build toward multiball
+4. **MULTIBALL + MODE STACK** → Combine for maximum scoring
+5. **JACKPOT CYCLES** → Target 10M each cycle
+6. **SPELL J-E-D-I** → Progress toward Saber Battle
+7. **SABER BATTLE** → Defeat Darth Maul to rank up
+8. **REPEAT** → Continue the cycle for higher ranks
+
+**Jedi Progression Path:**
+
+JEDI YOUTH → JEDI KNIGHT → JEDI MASTER → JEDI SPIRIT
 
 ---
 

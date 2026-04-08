@@ -15,7 +15,6 @@ software_by: "Dave Rzepka"
 model_number: "521"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (10), Kick-out hole (1), Rollunder spinner (1), Ramp (1), 2-ball multiball. "
 image: /assets/images/pinball/firepower-ii.jpg
-type: SS
 ---
 # 🔥 Firepower II Strategy Guide
 ## The Path to Maximum Points
@@ -274,17 +273,15 @@ Completing any 3-letter bank:
 
 ## 🏁 Quick-Start Checklist
 
-```
-□ Use lane change to position unlit top lanes before plunge
-□ Get to 5X bonus multiplier (3 top lane completions)
-□ Lock ball → Hit release target → Start multiball
-□ During multiball: UTAD via right side to top lanes
-□ Complete one 3-letter bank → Shoot lit orbit for Hold Bonus
-□ Complete full FIREPOWER → Rip the lit spinner
-□ Right in lane → Ramp for mystery points
-□ Repeat multiball as many times as possible
-□ Collect massive bonus at end of ball
-```
+- [ ] **Use lane change** to position unlit top lanes before plunge
+- [ ] **Get to 5X bonus multiplier** (3 top lane completions)
+- [ ] **Lock ball** → Hit release target → Start multiball
+- [ ] During multiball: **UTAD via right side** to top lanes
+- [ ] **Complete one 3-letter bank** → Shoot lit orbit for Hold Bonus
+- [ ] **Complete full FIREPOWER** → Rip the lit spinner
+- [ ] **Right in lane → Ramp** for mystery points
+- [ ] **Repeat multiball** as many times as possible
+- [ ] **Collect massive bonus** at end of ball
 
 ---
 

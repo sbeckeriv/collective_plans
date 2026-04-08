@@ -317,21 +317,19 @@ General Yagov taunts you throughout the game <kcite ref="30"/>:
 
 ## ⚡ Quick-Start Checklist
 
-```
-□ 1. Plunge ball into play
-□ 2. Cradle ball - DO NOT dead bounce
-□ 3. Shoot upper TOMCAT targets (upper flippers)
-□ 4. When TOMCAT complete → Shoot Right VUK to lock
-□ 5. Repeat steps 3-4 until 3 balls locked
-□ 6. Complete TOMCAT one more time
-□ 7. Shoot RELEASE (Right VUK) → 4-BALL MULTIBALL!
-□ 8. During MB: Shoot Right VUK for Landings
-□ 9. 3 Landings = JACKPOT (~703,850)
-□ 10. Keep kickback lit (hit center RESCUE target)
-□ 11. Work bonus multiplier via Flyby orbit
-□ 12. Avoid Yagov shot unless EB is lit
-□ 13. Repeat multiball for more jackpots!
-```
+- [ ] **Plunge ball into play**
+- [ ] **Cradle ball** - DO NOT dead bounce
+- [ ] **Shoot upper TOMCAT targets** (upper flippers)
+- [ ] When TOMCAT complete → **Shoot Right VUK to lock**
+- [ ] **Repeat until 3 balls locked**
+- [ ] **Complete TOMCAT one more time**
+- [ ] **Shoot RELEASE** (Right VUK) → 4-BALL MULTIBALL!
+- [ ] During MB: **Shoot Right VUK for Landings**
+- [ ] **3 Landings = JACKPOT** (~703,850)
+- [ ] **Keep kickback lit** (hit center RESCUE target)
+- [ ] **Work bonus multiplier** via Flyby orbit
+- [ ] **Avoid Yagov shot** unless EB is lit
+- [ ] **Repeat multiball** for more jackpots!
 
 ---
 

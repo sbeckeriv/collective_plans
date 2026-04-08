@@ -144,6 +144,7 @@ At game start, choose **Autobot** or **Decepticon** <kcite ref="44"/>:
 #### Scoring Differs by Faction:
 
 **As Decepticon:**
+
 | Phase                             | Shot          | Value                 |
 | --------------------------------- | ------------- | --------------------- |
 | Regular Jackpot                   | Major shots   | 150K                  |
@@ -152,6 +153,7 @@ At game start, choose **Autobot** or **Decepticon** <kcite ref="44"/>:
 | Super Jackpot                     | Optimus Prime | Total of all jackpots |
 
 **As Autobot:**
+
 | Phase                      | Shot            | Value                 |
 | -------------------------- | --------------- | --------------------- |
 | Jackpot                    | Any major shot  | 375K                  |

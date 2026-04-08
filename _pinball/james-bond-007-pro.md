@@ -469,22 +469,18 @@ Extra balls light at the left eject after <kcite ref="35"/>:
 
 ## 🏁 Summary: Your Mission Briefing
 
-```
-┌─────────────────────────────────────────────────────┐
-│           MISSION: 1 BILLION POINTS                 │
-├─────────────────────────────────────────────────────┤
-│ 1. Bank Super Skill Shot missiles early             │
-│ 2. Complete Death By Derby for upgraded mystery     │
-│ 3. Complete Outer Space Hijack for add-a-ball       │
-│ 4. Play modes to qualify Bond Women                 │
-│ 5. Collect 6 Bond Women at upper loop               │
-│ 6. Build SPECTRE targets for Bird One jackpots      │
-│ 7. Activate 7x 007 Scoring                          │
-│ 8. Start Bird One Multiball during 7x               │
-│ 9. Collect multiplied super jackpot                 │
-│ 10. Repeat until billionaire status achieved        │
-└─────────────────────────────────────────────────────┘
-```
+**Mission: 1 Billion Points**
+
+1. **Bank Super Skill Shot missiles early**
+2. **Complete Death By Derby** for upgraded mystery
+3. **Complete Outer Space Hijack** for add-a-ball
+4. **Play modes** to qualify Bond Women
+5. **Collect 6 Bond Women** at upper loop
+6. **Build SPECTRE targets** for Bird One jackpots
+7. **Activate 7x 007 Scoring**
+8. **Start Bird One Multiball during 7x**
+9. **Collect multiplied super jackpot**
+10. **Repeat until billionaire status achieved**
 
 ---
 

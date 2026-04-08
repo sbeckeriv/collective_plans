@@ -77,37 +77,47 @@ For new players, focus on these fundamentals:
 ### Gem Quest Details
 
 #### 💙 Mind Gem (vs. Supergiant)
-| Objective      | Shoot Hulk, Marvel, Panther, Black Widow to free Avengers                    |
+
+| Property       | Details                                                                      |
 | -------------- | ---------------------------------------------------------------------------- |
+| **Objective**  | Shoot Hulk, Marvel, Panther, Black Widow to free Avengers                    |
 | **Scoring**    | Shoot disc after freeing Avengers (1x-5x multiplier based on how many freed) |
 | **Final Blow** | Sanctum target (3 rounds)                                                    |
 | **Tip**        | Free all 4 Avengers before spinning disc for 5x multiplier                   |
 
 #### ❤️ Power Gem (vs. Black Dwarf)
-| Objective      | Shoot lit shots in spans of 3 (center = 30% damage, sides = 15%) |
+
+| Property       | Details                                                          |
 | -------------- | ---------------------------------------------------------------- |
+| **Objective**  | Shoot lit shots in spans of 3 (center = 30% damage, sides = 15%) |
 | **Scoring**    | Spinner/disc builds attack value                                 |
 | **Final Blow** | Left orbit (value = critical hits × multiplier)                  |
 | **Tip**        | Always aim for center shot for maximum damage                    |
 
 #### 💜 Space Gem (vs. Corvus Glaive)
-| Objective      | Parry-Attack sequence                                                  |
+
+| Property       | Details                                                                |
 | -------------- | ---------------------------------------------------------------------- |
+| **Objective**  | Parry-Attack sequence                                                  |
 | **Parry**      | Right orbit or upper loop                                              |
 | **Attack**     | Left orbit (50K-200K per pop bumper for 5 sec)                         |
 | **Final Blow** | Left ramp OR right orbit (more points)                                 |
 | **Tip**        | Left ramp → Right ramp → Mini loop = 4x attack value <kcite ref="22"/> |
 
 #### 🧡 Time Gem (vs. Proxima Midnight)
-| Objective      | Shoot left ramp + gauntlet ramp, then hit cycling drop target                               |
+
+| Property       | Details                                                                                     |
 | -------------- | ------------------------------------------------------------------------------------------- |
+| **Objective**  | Shoot left ramp + gauntlet ramp, then hit cycling drop target                               |
 | **Scoring**    | 3x for first attempt, 2x second, 1x third+                                                  |
 | **Final Blow** | Complete 3 attack sequences                                                                 |
 | **Tip**        | Place Power or Reality Gem on drops before starting for easier completion <kcite ref="59"/> |
 
 #### 💛 Reality Gem (vs. Ebony Maw)
-| Objective      | Spin disc to light STRANGE letters, shoot 8 lit arrows                                                  |
+
+| Property       | Details                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------- |
+| **Objective**  | Spin disc to light STRANGE letters, shoot 8 lit arrows                                                  |
 | **Multiplier** | S=1x, T=2x, R=3x, A=4x, N=5x, G=6x, E=7x (timed countdown)                                              |
 | **Scoring**    | Pop lane and upper loop score 2x values                                                                 |
 | **Tip**        | Keep spinning disc to maintain high multipliers - this is the best quest for stacking <kcite ref="56"/> |
@@ -238,9 +248,20 @@ Collect all 6 Avengers by shooting their shots enough times to unlock mini-wizar
 
 ### Gem Placement & Perks
 
+**What is Gem Placement?** After you complete a Gem Quest, that Infinity Gem is automatically placed on one of the playfield shots (Avengers, Drop Targets, or Captain Marvel). Each gem provides different bonuses depending on where it's placed and what level that shot is at.
+
+**How to Control Placement:**
+1. **Initial placement** is automatic when you complete the Gem Quest
+2. **Light "Change Gems"** through Computer Grid bingos or Mystery awards
+3. When lit, shoot any Avenger shot to **move that gem** to a different location
+4. **Alternative:** Use the Space Gem's ability - shoot the Space Gem shot, then press the Action Button within 3 seconds to rotate ALL gems one position (1-3 uses depending on Space Gem level)
+
+**Strategic Placement:** The same gem provides different benefits depending on where you place it. For example, the Soul Gem on a Level 2 Avenger gives you a 150% jackpot, but only 50% on other locations. This creates deep strategy around optimizing gem positioning for your playstyle.
+
 After collecting a gem, place it on any shot for unique perks:
 
 #### ⏰ Time Gem
+
 | Placement                     | Effect                    |
 | ----------------------------- | ------------------------- |
 | Uncollected/Collected Avenger | +5 sec to timer/ball save |
@@ -249,6 +270,7 @@ After collecting a gem, place it on any shot for unique perks:
 | Drops/Captain Marvel          | +10 sec                   |
 
 #### 👻 Soul Gem
+
 | Placement            | Soul Jackpot (% of last quest) |
 | -------------------- | ------------------------------ |
 | Uncollected          | 25%                            |
@@ -265,6 +287,7 @@ After collecting a gem, place it on any shot for unique perks:
 - **On Captain Marvel:** 2x count-up progress <kcite ref="22"/>
 
 #### 🧠 Mind Gem
+
 | Placement   | Action Button Effect              |
 | ----------- | --------------------------------- |
 | Uncollected | 1 use - spots that shot           |
@@ -274,6 +297,7 @@ After collecting a gem, place it on any shot for unique perks:
 | Drops       | 3 uses - change lit grid award    |
 
 #### 🌟 Reality Gem
+
 | Placement             | Multiplier                       |
 | --------------------- | -------------------------------- |
 | Uncollected/Collected | 2x                               |
@@ -282,9 +306,13 @@ After collecting a gem, place it on any shot for unique perks:
 | Drops                 | 2x + 2/3 drops = completion (3x) |
 
 #### 🌀 Space Gem
-- Shoot Space Gem shot → Action button moves ALL gems one position (3 sec window)
-- Uses: 1 (base) → 2 (L1) → 3 (L2)
-- Recharges at next Avenger level-up <kcite ref="22"/>
+
+**Mass Gem Rotation Ability:**
+- Shoot the Space Gem shot → Press Action Button within 3 seconds
+- Moves ALL gems one position clockwise through available placements
+- Uses per game: 1 (base) → 2 (Level 1) → 3 (Level 2)
+- Recharges at next Avenger level-up
+- Useful for quick repositioning without needing "Change Gems" lit <kcite ref="22"/>
 
 **Recommended Gem Placement:**
 

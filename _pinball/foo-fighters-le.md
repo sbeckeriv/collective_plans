@@ -3,18 +3,17 @@ title: "Foo Fighters (LE)"
 opdb_id: GpeoL-MkPz1-A944p
 is_alias: true
 manufacturer: Stern Pinball
+manufacturer_url: https://sternpinball.com
 year: 2023
 manufacture_date: 2023-03-01
+designer: Jack Danger
+artist: Jeremy Packer (Zombie Yeti)
+type: SS
+theme: Music / Rock Band / Sci-Fi
+players: 4
 features:
   - "Limited edition"
 image: /assets/images/pinball/foo-fighters-le.jpg
-manufacturer_url: https://sternpinball.com
-year: 2023
-designer: Jack Danger
-artist: Jeremy Packer (Zombie Yeti)
-type: SS 
-theme: Music / Rock Band / Sci-Fi
-players: 4
 ---
 
 # 🎸 Foo Fighters LE Pinball - Ultimate Strategy Guide

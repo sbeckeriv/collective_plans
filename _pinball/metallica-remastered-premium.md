@@ -121,6 +121,7 @@ Items are collected by:
 **Songs:** Creeping Death (odd), Ride the Lightning (even)
 
 **Jackpot Structure:**
+
 | Award         | Value                       |
 | ------------- | --------------------------- |
 | Jackpot       | 250K + (2.5K × total items) |
@@ -140,6 +141,7 @@ Items are collected by:
 **Song:** Master of Puppets
 
 **Jackpot Structure:**
+
 | Award             | Value                                          |
 | ----------------- | ---------------------------------------------- |
 | Jackpot           | 200K + (2.5K × total items)                    |
@@ -162,6 +164,7 @@ Items are collected by:
 **Song:** Sad But True
 
 **Jackpot Structure:**
+
 | Award         | Value                         |
 | ------------- | ----------------------------- |
 | Jackpot       | 300K + (3K × total items)     |
@@ -180,6 +183,7 @@ Items are collected by:
 **Song:** For Whom the Bell Tolls
 
 **Jackpot Structure:**
+
 | Award         | Value                     |
 | ------------- | ------------------------- |
 | Jackpot       | 400K + (4K × total items) |
@@ -246,6 +250,7 @@ Band members level up (max level 8) by playing multiballs and scoring jackpots:
 | **Lars**   | Coffin         | +1 per start, +1 per captive ball jackpot                      |
 
 **Max Level (8) Benefits in Blackened:**
+
 | Max Members | Bonus                                         |
 | ----------- | --------------------------------------------- |
 | 1           | 1 add-a-ball button                           |
