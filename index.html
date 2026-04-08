@@ -22,17 +22,6 @@ title: Pinball Strategy Guides
         </select>
     </div>
 
-    <div class="filter-group">
-        <label>Type:</label>
-        <select id="filter-type" onchange="filterMachines()">
-            <option value="">All</option>
-            {% assign types = site.pinball | map: "type" | uniq | sort %}
-            {% for type in types %}
-            <option value="{{ type }}">{{ type }}</option>
-            {% endfor %}
-        </select>
-    </div>
-
     <button onclick="clearFilters()" class="btn-clear">Clear Filters</button>
 
     <p><span id="machine-count">{{ site.pinball.size }}</span> machines in the database.</p>
@@ -45,7 +34,6 @@ title: Pinball Strategy Guides
   {
     "title": {{ machine.title | jsonify }},
     "manufacturer": {{ machine.manufacturer | jsonify }},
-    "type": {{ machine.type | jsonify }},
     "year": {{ machine.year | jsonify }},
     "updated": {{ machine.updated | jsonify }},
     "url": {{ machine.url | relative_url | jsonify }},
@@ -86,7 +74,6 @@ title: Pinball Strategy Guides
                 ` : ''}
                 <h2><a href="${machine.url}">${machine.title}</a></h2>
                 <p><strong>${machine.manufacturer}</strong> &bull; ${machine.year}</p>
-                <p><em>${machine.type}</em></p>
             </div>
         `).join('');
     }
@@ -94,9 +81,8 @@ title: Pinball Strategy Guides
     function filterMachines() {
         const searchFilter = document.getElementById('filter-search').value.toLowerCase();
         const mfgFilter = document.getElementById('filter-manufacturer').value;
-        const typeFilter = document.getElementById('filter-type').value;
 
-        const hasFilters = searchFilter || mfgFilter || typeFilter;
+        const hasFilters = searchFilter || mfgFilter;
 
         let filtered = allMachines;
 
@@ -105,8 +91,7 @@ title: Pinball Strategy Guides
             filtered = allMachines.filter(machine => {
                 const searchMatch = !searchFilter || machine.title.toLowerCase().includes(searchFilter);
                 const mfgMatch = !mfgFilter || machine.manufacturer === mfgFilter;
-                const typeMatch = !typeFilter || machine.type === typeFilter;
-                return searchMatch && mfgMatch && typeMatch;
+                return searchMatch && mfgMatch;
             });
         }
 
@@ -118,12 +103,22 @@ title: Pinball Strategy Guides
     function clearFilters() {
         document.getElementById('filter-search').value = '';
         document.getElementById('filter-manufacturer').value = '';
-        document.getElementById('filter-type').value = '';
         filterMachines();
     }
 
     // Initial render on page load
     document.addEventListener('DOMContentLoaded', () => {
-        renderMachines(allMachines);
+        // Check for URL parameters
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchQuery = urlParams.get('q');
+
+        if (searchQuery) {
+            // Fill in the search box and trigger filter
+            document.getElementById('filter-search').value = searchQuery;
+            filterMachines();
+        } else {
+            // Normal render without filters
+            renderMachines(allMachines);
+        }
     });
 </script>
