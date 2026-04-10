@@ -564,6 +564,42 @@ Defend each gem you have:
 3. **Collect all Avengers 3x** for all mini-wizard modes
 4. **Reach Battle Thanos with all 6 gems** = **1 BILLION BONUS**
 
+### Recommended Gem Collection Order
+
+Complete gems in this strategic sequence to maximize scoring and progression:
+
+#### 1️⃣ Reality Gem (Ebony Maw) - FIRST
+- **Why:** Easiest to stack for massive scoring (100M+ with 2 Portal Locks)
+- **Strategy:** Keep spinning disc for 7x multiplier throughout quest
+- **Placement:** Hulk spinner for boosted scoring
+
+#### 2️⃣ Power Gem (Black Dwarf) - SECOND  
+- **Why:** Critical for long-term progression
+- **Benefits:** Spots extra grid awards (3x), keeps Avenger levels through drains
+- **Placement:** Drop targets immediately
+
+#### 3️⃣ Mind Gem (Supergiant) - THIRD
+- **Why:** Straightforward quest, easier with Power Gem accelerating progress
+- **Strategy:** Free all 4 Avengers before spinning disc for 5x multiplier
+- **Placement:** Black Panther to spot shots during modes
+
+#### 4️⃣ Space Gem (Corvus Glaive) - FOURTH
+- **Why:** Moderate difficulty, unlocks gem rotation ability
+- **Strategy:** Left ramp → Right ramp → Mini loop = 4x attack value
+- **Placement:** Captain America for easy recharge via pops
+
+#### 5️⃣ Time Gem (Proxima Midnight) - FIFTH
+- **Why:** Complete AFTER Power/Reality gems on drops for easier completion
+- **Strategy:** Use gem placement to help with drop target cycling
+- **Placement:** Black Widow for easy timer boost access
+
+#### 6️⃣ Soul Gem (Mini-Wizard) - LAST
+- **Why:** Requires all 6 Avengers collected first
+- **Strategy:** 30 flips to complete flip-limited challenge
+- **Placement:** Highest Level 2 Avenger for 150% jackpot bonus
+
+> 💡 **Quick Path:** Reality → Power → Mind → Space → Time → Soul maximizes early scoring while building infrastructure for late-game dominance.
+
 ### Highest Value Opportunities
 
 | Opportunity                              | Potential Score     |
