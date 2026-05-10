@@ -129,11 +129,9 @@ For new players, focus on these fundamentals:
 
 ### Portal Locks & Victory Laps
 
-**Portal Locks** multiply all Gem Quest scoring:
-- 2 balls locked = **2x scoring**
-- 3 balls locked = **3x scoring** <kcite ref="22"/>
+**Portal Locks enable multiball during Gem Quests!** Prior to starting a Gem Quest, up to 2 Portal Locks can be qualified and collected at the disc.
 
-**How to Light Portal Locks:**
+**How to Qualify & Collect Portal Locks:**
 
 | Method               | Requirement                   |
 | -------------------- | ----------------------------- |
@@ -142,9 +140,17 @@ For new players, focus on these fundamentals:
 | Hawkeye Challenge    | Complete Level 1              |
 | Computer Grid        | Bingo award                   |
 
-> 💡 **Pro Tip:** Portal Locks can be hoarded! You can have locks in reserve for future quests <kcite ref="60"/>.
+Once qualified, shoot the disc to collect and bank the Portal Lock.
 
-**Victory Laps:** After completing a Gem Quest with balls still in play, all shots light for hurry-up scoring. Spin disc to raise value, multiplied by balls in play.
+**Starting a Gem Quest with Portal Locks:**
+- 1 Portal Lock banked = **2-ball multiball** during quest = **2x scoring**
+- 2 Portal Locks banked = **3-ball multiball** during quest = **3x scoring**
+- **Keep the balls in play!** Scoring multiplier only applies while all balls are active
+- Pop bumper lane and upper loop score 2x during Portal Lock multiball
+
+> 💡 **Pro Tip:** Portal Locks can be hoarded! You can have locks in reserve for future quests <kcite ref="60"/>. Always bank 2 Portal Locks before starting high-value quests like Reality Gem.
+
+**Victory Laps:** After completing a Gem Quest with extra balls still in play, all major shots light for hurry-up scoring. Spin disc to raise value, multiplied by balls in play.
 
 ---
 
