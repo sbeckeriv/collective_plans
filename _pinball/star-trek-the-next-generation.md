@@ -1,5 +1,6 @@
 ---
 title: Star Trek The Next Generation
+opdb_id: GR6d8-M1rZd
 manufacturer: Williams
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1993

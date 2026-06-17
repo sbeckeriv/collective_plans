@@ -1,5 +1,6 @@
 ---
 title: "Jim Henson's Labyrinth"
+opdb_id: GvBn8-Mz291
 manufacturer: Barrels of Fun
 manufacturer_url: https://www.barrelsoffun.com
 year: 2023

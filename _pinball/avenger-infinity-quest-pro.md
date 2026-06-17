@@ -1,5 +1,6 @@
 ---
 title: Avengers Infinity Quest Pro
+opdb_id: Gj66P-M3dxn
 manufacturer: Stern Pinball
 manufacturer_url: https://sternpinball.com
 year: 2020

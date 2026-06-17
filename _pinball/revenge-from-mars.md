@@ -1,5 +1,6 @@
 ---
 title: Revenge from Mars
+opdb_id: G50Wr-MLeZP
 manufacturer: Williams
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=109
 year: 1999

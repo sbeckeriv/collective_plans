@@ -1,5 +1,6 @@
 ---
 title: Star Wars Trilogy
+opdb_id: GrybN-MLl5X
 manufacturer: Sega Pinball
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=107
 year: 1997

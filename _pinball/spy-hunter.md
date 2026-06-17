@@ -1,5 +1,6 @@
 ---
 title: Spy Hunter
+opdb_id: GRwl7-MJ45o
 manufacturer: Bally
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1984

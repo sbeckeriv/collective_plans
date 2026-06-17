@@ -1,5 +1,6 @@
 ---
 title: Dr. Dude and His Excellent Ray
+opdb_id: GRVEJ-MDq1w
 manufacturer: Bally
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1990

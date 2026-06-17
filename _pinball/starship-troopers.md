@@ -1,5 +1,6 @@
 ---
 title: "Starship Troopers"
+opdb_id: G5we0-MDx6b
 manufacturer: Sega Pinball
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=107
 year: 1997

@@ -1,5 +1,6 @@
 ---
 title: Medieval Madness Remake LE
+opdb_id: G5pe4-M61y6
 manufacturer: Chicago Gaming Company
 manufacturer_url: https://www.chicago-gaming.com
 year: 2015

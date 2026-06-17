@@ -1,5 +1,6 @@
 ---
 title: Theatre of Magic
+opdb_id: G5BLE-MQ75Y
 manufacturer: Bally
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=16
 year: 1995

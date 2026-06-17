@@ -1,5 +1,6 @@
 ---
 title: Lethal Weapon 3
+opdb_id: GRokL-MQP78
 manufacturer: Data East
 manufacturer_url: https://www.ipdb.org/search.pl?searchtype=advanced&mfgid=30
 year: 1992
