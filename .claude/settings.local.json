@@ -1,7 +1,45 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "WebFetch",
+      "WebFetch(domain:pinside.com)",
+      "WebFetch(domain:rules.silverballmania.com)",
+      "WebFetch(domain:www.kineticist.com)",
+      "WebFetch(domain:tiltforums.com)",
+      "WebFetch(domain:sternpinball.com)",
+      "WebFetch(domain:tvtropes.org)",
+      "WebFetch(domain:systemjpinball.ca)",
+      "Bash(command -v webfetch)",
+      "WebFetch(domain:www.manualslib.com)",
+      "WebFetch(domain:pinball.miraheze.org)",
+      "WebFetch(domain:gamefaqs.gamespot.com)",
+      "WebFetch(domain:skill-shot.com)",
+      "WebFetch(domain:www.ipdb.org)",
+      "Bash(curl -s \"https://tiltforums.com/search?q=game+of+thrones+pro+rulesheet\")",
+      "WebFetch(domain:www.pinballrebel.com)",
+      "WebFetch(domain:www.colorado-pinball.com)",
+      "WebFetch(domain:www.jeff-z.com)",
+      "WebFetch(domain:www.tworobotstalking.com)",
+      "WebFetch(domain:www.pinballformortals.com)",
+      "WebFetch(domain:www.rainersonlinewelt.de)",
+      "WebFetch(domain:pinball.org)",
+      "WebFetch(domain:ipdb.org)",
+      "WebFetch(domain:pinballmakers.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:nintendowire.com)",
+      "WebFetch(domain:www.pinballinfo.com)",
+      "WebFetch(domain:www.thisweekinpinball.com)",
+      "WebFetch(domain:www.pinball.org)",
+      "WebFetch(domain:jerseyjackpinball.com)",
+      "Bash(curl -s \"https://pinballmap.com/api/v1/locations/within_bounding_box.json?swlat=47.5218&swlon=-122.5983&nelat=47.8118&nelon=-122.1673\")",
+      "Bash(curl -s \"https://pinballmap.com/api/v1/locations/29202/machine_details.json\")",
+      "Bash(python3 -c \"import json,sys; data=json.load\\(sys.stdin\\); ids=[l['id'] for l in data['locations']]; print\\(len\\(ids\\)\\); print\\(' '.join\\(map\\(str, ids\\)\\)\\)\")",
+      "WebFetch(domain:funwithbonus.com)",
+      "WebFetch(domain:o.pinside.com)",
+      "WebFetch(domain:www.pinpedia.com)",
+      "WebFetch(domain:eiserloh.net)",
+      "Bash(git mv *)"
     ]
   }
 }
