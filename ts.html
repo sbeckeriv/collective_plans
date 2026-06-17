@@ -1,208 +1,132 @@
 ---
-layout: default
+layout: location
 title: Game List
 ---
 
-<style>
-    .ts-container {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 20px;
-    }
-
-    .ts-header {
-        text-align: center;
-        margin-bottom: 30px;
-    }
-
-    .game-list {
-        list-style: none;
-        padding: 0;
-    }
-
-    .game-item {
-        padding: 12px 16px;
-        margin: 8px 0;
-        background: #f5f5f5;
-        border-radius: 6px;
-        transition: background 0.2s;
-    }
-
-    .game-item:hover {
-        background: #e8e8e8;
-    }
-
-    .game-item a {
-        text-decoration: none;
-        color: #2c5aa0;
-        font-weight: 500;
-        display: block;
-    }
-
-    .game-item a:hover {
-        color: #1a3d6f;
-    }
-
-    .game-item.no-link {
-        color: #999;
-        font-style: italic;
-    }
-
-    .game-meta {
-        font-size: 0.9em;
-        color: #666;
-        margin-top: 4px;
-    }
-
-    .warning {
-        background: #fff3cd;
-        border-left: 4px solid #ffc107;
-        padding: 4px 8px;
-        margin-top: 4px;
-        font-size: 0.85em;
-    }
-</style>
-
-<div class="ts-container">
-    <div class="ts-header">
-        <h1>🪓 Game List</h1>
-        <p>72$ start</p>
-    </div>
-
-    <ul class="game-list">
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/batman-forever/">Batman Forever</a>
-            <div class="game-meta">Sega, 1995</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/black-knight-sword-of-rage-premium/">Black Knight: Sword of Rage
-                Premium</a>
-            <div class="game-meta">Stern, 2019</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/dungeons-dragons-the-tyrants-eye-premium/">Dungeons & Dragons: The
-                Tyrant's Eye Premium</a>
-            <div class="game-meta">Stern, 2025</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/earthshaker/">Earthshaker</a>
-            <div class="game-meta">Williams, 1989</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/elviras-house-of-horrors-blood-red-kiss/">Elvira's House of Horrors
-                Blood Red Kiss</a>
-            <div class="game-meta">Stern, 2023</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/firepower-ii/">Firepower II</a>
-            <div class="game-meta">Williams, 1983</div>
-        </li>
-
-        <li class="game-item no-link">
-            Flash
-            <div class="game-meta">Williams, 1979 (No guide available)</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/foo-fighters-le/">Foo Fighters LE</a>
-            <div class="game-meta">Stern, 2023</div>
-        </li>
-
-        <li class="game-item no-link">
-            Galahad
-            <div class="game-meta">Bally, 1970 (No guide available)</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/harry-potter-wizard/">Harry Potter Wizard Edition</a>
-            <div class="game-meta">Jersey Jack, 2025</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/iron-maiden-legacy-of-the-beast/">Iron Maiden: Legacy of the Beast
-                Premium</a>
-            <div class="game-meta">Stern, 2018</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/james-bond-007-pro/">James Bond 007 Pro</a>
-            <div class="game-meta">Stern, 2022</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/john-wick-le/">John Wick LE</a>
-            <div class="game-meta">Stern, 2024</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/metallica-remastered-premium/">Metallica Remastered Premium</a>
-            <div class="game-meta">Stern, 2024</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/police-force/">Police Force</a>
-            <div class="game-meta">Williams, 1989</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/robocop/">Robocop</a>
-            <div class="game-meta">Data East, 1989</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/star-trek-pro/">Star Trek Pro</a>
-            <div class="game-meta">Stern, 2013</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/star-wars-premium/">Star Wars Premium</a>
-            <div class="game-meta">Stern, 2017</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/star-wars-episode-i/">Star Wars Episode 1</a>
-            <div class="game-meta">Williams, 1999</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/stranger-things-pro/">Stranger Things Pro</a>
-            <div class="game-meta">Stern, 2019</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/teenage-mutant-ninja-turtles-pro/">Teenage Mutant Ninja Turtles Pro</a>
-            <div class="game-meta">Stern, 2020</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/the-mandalorian-le/">The Mandalorian LE</a>
-            <div class="game-meta">Stern, 2021</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/the-walking-dead-pro/">The Walking Dead Pro</a>
-            <div class="game-meta">Stern, 2014</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/transformers-le/">Transformers Pro</a>
-            <div class="game-meta">Stern, 2011</div>
-            <div class="warning">⚠️ Collective plans has Transformers LE, a different edition</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/disney-tron-legacy/">TRON: Legacy</a>
-            <div class="game-meta">Stern, 2011</div>
-        </li>
-
-        <li class="game-item">
-            <a href="{{ site.baseurl }}/pinball/venom-pro/">Venom Premium</a>
-            <div class="game-meta">Stern, 2023</div>
-        </li>
-    </ul>
-</div>
+<ul class="game-list">
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/batman-forever/">Batman Forever</a>
+        <div class="game-meta">Sega, 1995</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/the-beatles-gold/">Beatles (Gold)</a>
+        <div class="game-meta">Stern, 2018</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/big-guns/">Big Guns</a>
+        <div class="game-meta">Williams, 1987</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/black-knight-sword-of-rage-premium/">Black Knight: Sword of Rage Premium</a>
+        <div class="game-meta">Stern, 2019</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/deadpool/">Deadpool (Premium)</a>
+        <div class="game-meta">Stern, 2018</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/dungeons-dragons-the-tyrants-eye-premium/">Dungeons & Dragons: The Tyrant's Eye Premium</a>
+        <div class="game-meta">Stern, 2025</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/earthshaker/">Earthshaker</a>
+        <div class="game-meta">Williams, 1989</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/elviras-house-of-horrors-blood-red-kiss/">Elvira's House of Horrors Blood Red Kiss</a>
+        <div class="game-meta">Stern, 2023</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/firepower-ii/">Firepower II</a>
+        <div class="game-meta">Williams, 1983</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/flash/">Flash</a>
+        <div class="game-meta">Williams, 1979</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/foo-fighters-le/">Foo Fighters LE</a>
+        <div class="game-meta">Stern, 2023</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/galahad/">Galahad</a>
+        <div class="game-meta">Bally, 1970</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/harry-potter-wizard/">Harry Potter Wizard Edition</a>
+        <div class="game-meta">Jersey Jack, 2025</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/iron-maiden-legacy-of-the-beast/">Iron Maiden: Legacy of the Beast Premium</a>
+        <div class="game-meta">Stern, 2018</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/james-bond-007-pro/">James Bond 007 Pro</a>
+        <div class="game-meta">Stern, 2022</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/john-wick-le/">John Wick LE</a>
+        <div class="game-meta">Stern, 2024</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/lethal-weapon-3/">Lethal Weapon 3</a>
+        <div class="game-meta">Data East, 1992</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/metallica-remastered-premium/">Metallica Remastered Premium</a>
+        <div class="game-meta">Stern, 2024</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/pokemon-2026-GV8wB-Mq12N/">Pokémon (LE)</a>
+        <div class="game-meta">Stern, 2026</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/police-force/">Police Force</a>
+        <div class="game-meta">Williams, 1989</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/robocop/">Robocop</a>
+        <div class="game-meta">Data East, 1989</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/star-trek-pro/">Star Trek Pro</a>
+        <div class="game-meta">Stern, 2013</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/star-wars-premium/">Star Wars Premium</a>
+        <div class="game-meta">Stern, 2017</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/star-wars-episode-i/">Star Wars Episode 1</a>
+        <div class="game-meta">Williams, 1999</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/stranger-things-pro/">Stranger Things Pro</a>
+        <div class="game-meta">Stern, 2019</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/teenage-mutant-ninja-turtles-pro/">Teenage Mutant Ninja Turtles Pro</a>
+        <div class="game-meta">Stern, 2020</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/the-mandalorian-le/">The Mandalorian LE</a>
+        <div class="game-meta">Stern, 2021</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/the-walking-dead-pro/">The Walking Dead Pro</a>
+        <div class="game-meta">Stern, 2014</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/transformers-le/">Transformers Pro</a>
+        <div class="game-meta">Stern, 2011</div>
+        <div class="warning">⚠️ Guide is for Transformers LE, a different edition</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/disney-tron-legacy/">TRON: Legacy</a>
+        <div class="game-meta">Stern, 2011</div>
+    </li>
+    <li class="game-item">
+        <a href="{{ site.baseurl }}/pinball/venom-pro/">Venom Premium</a>
+        <div class="game-meta">Stern, 2023</div>
+    </li>
+</ul>

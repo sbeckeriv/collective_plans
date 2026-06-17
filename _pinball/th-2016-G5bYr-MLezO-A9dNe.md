@@ -9,6 +9,7 @@ manufacture_date: 2016-01-01
 features:
   - "Limited edition"
   - "Widebody"
+image: /assets/images/pinball/th-2016-G5bYr-MLezO-A9dNe.jpg
 ---
 
 # 🧙 The Hobbit (LE) - Strategy Guide

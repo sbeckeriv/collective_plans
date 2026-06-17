@@ -5,6 +5,7 @@ shortname: "TS4"
 manufacturer: Jersey Jack Pinball
 year: 2022
 manufacture_date: 2022-06-14
+image: /assets/images/pinball/toy-story-4.jpg
 ---
 
 # 🎪 TOY STORY 4 Pinball Machine - Complete Strategy Guide

@@ -5,6 +5,7 @@ shortname: "EJ"
 manufacturer: Jersey Jack Pinball
 year: 2023
 manufacture_date: 2023-10-01
+image: /assets/images/pinball/elton-john.jpg
 ---
 
 # 🎹 ELTON JOHN Pinball Machine - Complete Strategy Guide

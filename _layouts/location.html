@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<style>
+    .ts-container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .game-list {
+        list-style: none;
+        padding: 0;
+    }
+
+    .game-item {
+        padding: 12px 16px;
+        margin: 8px 0;
+        background: #f5f5f5;
+        border-radius: 6px;
+        transition: background 0.2s;
+    }
+
+    .game-item:hover {
+        background: #e8e8e8;
+    }
+
+    .game-item a {
+        text-decoration: none;
+        color: #2c5aa0;
+        font-weight: 500;
+        display: block;
+    }
+
+    .game-item a:hover {
+        color: #1a3d6f;
+    }
+
+    .game-item.no-link {
+        color: #999;
+        font-style: italic;
+    }
+
+    .game-meta {
+        font-size: 0.9em;
+        color: #666;
+        margin-top: 4px;
+    }
+
+    .warning {
+        background: #fff3cd;
+        border-left: 4px solid #ffc107;
+        padding: 4px 8px;
+        margin-top: 4px;
+        font-size: 0.85em;
+    }
+</style>
+
+<div class="ts-container">
+    <div style="text-align:center;margin-bottom:16px;font-size:0.9em;">
+        <a href="{{ site.baseurl }}/ts">ts</a> ·
+        <a href="{{ site.baseurl }}/npc">npc</a> ·
+        <a href="{{ site.baseurl }}/ice">ice</a> ·
+        <a href="{{ site.baseurl }}/add">add</a>
+    </div>
+    {{ content }}
+</div>
