@@ -8,6 +8,7 @@ manufacture_date: 2025-04-15
 features:
   - "Pro edition"
 image: /assets/images/pinball/king-kong-myth-of-terror-island-pro.jpg
+ai_generated: true
 ---
 
 # 🦍 King Kong: Myth of Terror Island - Strategy Guide

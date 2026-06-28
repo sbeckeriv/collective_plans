@@ -10,6 +10,7 @@ features:
   - "Limited edition"
   - "Widebody"
 image: /assets/images/pinball/th-2016-G5bYr-MLezO-A9dNe.jpg
+ai_generated: true
 ---
 
 # 🧙 The Hobbit (LE) - Strategy Guide

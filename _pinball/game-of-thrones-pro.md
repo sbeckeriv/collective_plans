@@ -19,6 +19,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/game-of-thrones-pro.jpg
+ai_generated: true
 ---
 
 # ⚔️ GAME OF THRONES (Pro) Pinball Machine - Complete Strategy Guide

@@ -13,6 +13,7 @@ artist: "Paul Faris"
 model_number: "1074-E"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (3), Spinning targets (2), 5-bank drop targets (2), Kick-out hole (1). "
 image: /assets/images/pinball/night-rider.jpg
+ai_generated: true
 ---
 
 # 🚚 Night Rider - Strategy Guide

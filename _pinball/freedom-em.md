@@ -12,6 +12,7 @@ artist: "Christian Marche"
 model_number: "1066"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 5-bank drop targets (1), Kick-out holes (2), Spinning targets (2), Standup target (1). End-of-ball bonus. The Early Production version has a fourth pop bumper instead of the two slingshots. "
 image: /assets/images/pinball/freedom-em.jpg
+ai_generated: true
 ---
 
 # 🔔 Freedom - Strategy Guide

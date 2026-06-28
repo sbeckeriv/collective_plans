@@ -20,6 +20,7 @@ notable_features: "Flippers(4), Pop bumpers (3), Slingshots (2), Shaker motor, t
 features:
   - "Widebody"
 image: /assets/images/pinball/red-teds-road-show.jpg
+ai_generated: true
 ---
 
 # 🚧 Red & Ted's Road Show - Strategy Guide

@@ -19,6 +19,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/star-trek-pro.jpg
+ai_generated: true
 ---
 # 🖖 Star Trek Pro (Stern, 2013) - Ultimate Strategy Guide
 ## 🎯 Goal: 1 Billion Points

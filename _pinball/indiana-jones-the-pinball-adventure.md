@@ -19,6 +19,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Active pinball
 features:
   - "Widebody"
 image: /assets/images/pinball/indiana-jones-the-pinball-adventure.jpg
+ai_generated: true
 ---
 
 # 🗿 Indiana Jones: The Pinball Adventure - Strategy Guide

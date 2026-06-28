@@ -14,6 +14,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (3), 5-bank drop ta
 features:
   - "Widebody"
 image: /assets/images/pinball/cheetah.jpg
+ai_generated: true
 ---
 
 # 🐆 CHEETAH Pinball Machine - Strategy Guide

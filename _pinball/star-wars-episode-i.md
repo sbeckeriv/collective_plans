@@ -16,6 +16,7 @@ sound_by: "Eric Pryzby"
 software_by: "Cameron Silver, Duncan Brown"
 model_number: "50069"
 image: /assets/images/pinball/star-wars-episode-i.jpg
+ai_generated: true
 ---
 # 🌟 Star Wars Episode I — Complete Player's Guide
 ### Williams, 1999 | Pinball 2000 | 🎯 Target: 1 Billion Points

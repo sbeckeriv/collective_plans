@@ -9,6 +9,7 @@ features:
   - "Limited edition"
   - "Widebody"
 image: /assets/images/pinball/evil-dead.jpg
+ai_generated: true
 ---
 
 # 🪓 Evil Dead - Strategy Guide

@@ -18,6 +18,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Limited edition"
 image: /assets/images/pinball/batman-66-le.jpg
+ai_generated: true
 ---
 
 # 🦇 Batman 66 Pinball Machine - Strategy Guide

@@ -19,6 +19,7 @@ notable_features: "Flippers (2), Pop bumpers (2), Slingshots (3), Standup target
 features:
   - "Premium edition"
 image: /assets/images/pinball/star-wars-premium.jpg
+ai_generated: true
 ---
 # 🌟 Star Wars Premium (Stern, 2017) - Complete Strategy Guide
 ## 🎯 Goal: 1 Billion Points

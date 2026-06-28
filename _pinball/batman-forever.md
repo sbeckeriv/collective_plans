@@ -17,6 +17,7 @@ software_by: "Brian Rudolph, John Carpenter"
 model_number: "38"
 notable_features: "Flippers (3), Ramps (3), Multiball, Automatic Plunger, Batwing Ball Cannon. Pistol Grip ball shooter. Unlimited buy-in balls per player (operator option). Dot Matrix Display, at 192x64 pixels, is larger than standard, and is powered by a 68000 CPU. Actual measured weight: 266 lbs (includes legs). "
 image: /assets/images/pinball/batman-forever.jpg
+ai_generated: true
 ---
 
 # 🦇 Batman Forever Pinball - Ultimate Strategy Guide

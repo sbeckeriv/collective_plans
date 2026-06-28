@@ -13,6 +13,7 @@ artist: "Greg Freres, Margaret Hudson, Kevin O'Connor"
 model_number: "1217"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (4), 3-bank drop targets (1), Spinning target (1), Kick-out hole (1), Star rollover (1), 3-in-line drop targets. "
 image: /assets/images/pinball/frontier-1980.jpg
+ai_generated: true
 ---
 
 # 🤠 FRONTIER Pinball Machine - Strategy Guide

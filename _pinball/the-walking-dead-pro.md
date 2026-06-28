@@ -18,6 +18,7 @@ features:
   - "Pro edition"
 image: /assets/images/pinball/the-walking-dead-pro.jpg
 artist: Greg Freres, Kevin O'Connor
+ai_generated: true
 ---
 
 # 🧟 The Walking Dead Pro - Ultimate Strategy Guide

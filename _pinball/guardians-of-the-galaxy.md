@@ -19,6 +19,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Standup targets (7), Diverter 
 features:
   - "Pro edition"
 image: /assets/images/pinball/guardians-of-the-galaxy.jpg
+ai_generated: true
 ---
 
 # 🚀 Guardians of the Galaxy - Strategy Guide

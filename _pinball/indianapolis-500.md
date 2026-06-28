@@ -17,6 +17,7 @@ software_by: "Mike Boon, Craig Sylla"
 model_number: "50026"
 notable_features: "Flippers (3), Pop bumpers (3), Multiball, Autoplunger, digital game in DMD. Unlimited buy-in balls per player (operator option). "
 image: /assets/images/pinball/indianapolis-500.jpg
+ai_generated: true
 ---
 
 # 🏁 Indianapolis 500 Pinball Machine - Complete Strategy Guide

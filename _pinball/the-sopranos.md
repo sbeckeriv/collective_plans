@@ -14,6 +14,7 @@ software_by: "Dwight Sullivan, Lyman F. Sheats Jr., Lonnie D. Ropp"
 model_number: "I-0085"
 notable_features: "Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 260 lbs. Number of installed pinballs: 4 "
 image: /assets/images/pinball/the-sopranos.jpg
+ai_generated: true
 ---
 
 # 🍕 The Sopranos - Strategy Guide

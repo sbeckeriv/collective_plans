@@ -13,6 +13,7 @@ artist: "Kevin O'Connor"
 model_number: "1148-E"
 notable_features: "Flippers (2) Pop bumpers (3), Slingshots (2), 4-bank drop targets (1), Standup targets (5), Star rollovers (2), Kick-out hole (1), Free ball return lane. "
 image: /assets/images/pinball/star-trek-1979.jpg
+ai_generated: true
 ---
 
 # 🖖 Star Trek (Bally, 1979) - Strategy Guide

@@ -13,6 +13,7 @@ artist: "Christian Marche"
 model_number: "897"
 notable_features: "Flippers (2), Pop bumpers (3), Mushroom bumpers (6), Slingshots (2), Rollover buttons (4), Kick-out holes (2), Left-side kickback lane, Up-post between flippers. "
 image: /assets/images/pinball/expressway.jpg
+ai_generated: true
 ---
 
 # 🛣️ Expressway - Strategy Guide

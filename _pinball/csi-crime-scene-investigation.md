@@ -17,6 +17,7 @@ software_by: "Lonnie D. Ropp, Lyman F. Sheats Jr., Keith P. Johnson, Mike Kyziva
 model_number: "I-00A2"
 notable_features: "Multiple multiball modes. The centrifuge spinning disk captures the ball and spins it around to count down for multiball. This disc also acts as a shaker motor. Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 250 lbs. "
 image: /assets/images/pinball/csi-crime-scene-investigation.jpg
+ai_generated: true
 ---
 
 # 🔬 CSI: Crime Scene Investigation - Strategy Guide

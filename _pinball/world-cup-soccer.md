@@ -17,6 +17,7 @@ software_by: "Larry DeMar, Matt Coriale"
 model_number: "50031"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), Rollover buttons (4), Kick-out holes (3), Ball poppers (2), Ramps (2), Spinning target (1), Diverter (1), Up-post on mini-playfield, Left outlane kickback. Magna-Save located on playfield above the left flipper is activated by extra button on left side of cabinet. Magna-Lock located on left-side elevated mini-playfield magnetically holds balls for multiball play. A goalie target moves from side to side at top-left playfield. Maximum 3 buy-in balls per player (operator option). Sound: electronic, EM knocker "
 image: /assets/images/pinball/world-cup-soccer.jpg
+ai_generated: true
 ---
 
 # ⚽ World Cup Soccer Pinball Machine - Complete Strategy Guide

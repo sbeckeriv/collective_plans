@@ -18,6 +18,7 @@ features:
   - "Pro edition"
 image: /assets/images/pinball/teenage-mutant-ninja-turtles-pro.jpg
 manufacturer_url: https://sternpinball.com/game/tmnt/
+ai_generated: true
 ---
 # 🐢 Teenage Mutant Ninja Turtles Pro - Complete Strategy Guide
 

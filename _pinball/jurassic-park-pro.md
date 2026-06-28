@@ -19,6 +19,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Up-posts (3), 
 features:
   - "Pro edition"
 image: /assets/images/pinball/jurassic-park-pro.jpg
+ai_generated: true
 ---
 
 # 🦕 JURASSIC PARK (Pro) Pinball Machine - Complete Strategy Guide

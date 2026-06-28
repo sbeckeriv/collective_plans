@@ -19,6 +19,7 @@ notable_features: "First game specifically developed to use an \"interim\" White
 features:
   - "Pro edition"
 image: /assets/images/pinball/lord-of-the-rings.jpg
+ai_generated: true
 ---
 
 # 💍 Lord of the Rings - Strategy Guide

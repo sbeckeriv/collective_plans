@@ -17,6 +17,7 @@ software_by: "Jeff Johnson"
 model_number: "20018"
 notable_features: "Flippers (2), Pop bumpers (3), Ramps (2), Vertical up-kickers (2), Kick-out holes (2), 2-ball Multiball, Whirlpool ball funnel, Video mode. "
 image: /assets/images/pinball/creature-from-the-black-lagoon.jpg
+ai_generated: true
 ---
 
 # 🌊 Creature from the Black Lagoon - Strategy Guide

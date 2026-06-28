@@ -12,6 +12,7 @@ players: 1-4
 ipdb_id: 4446
 image: /assets/images/pinball/revenge-from-mars.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🛸 Revenge from Mars - Complete Strategy Guide

@@ -17,6 +17,7 @@ software_by: "Mark Penacho"
 model_number: "576"
 notable_features: "Flippers (3), Multiball, ball-catching magnet near upper flipper, two-stage kickback in left outlane (shoots the ball straight up a little ramp, onto another kicker that is not otherwise in play, and finally around the orbit to the upper right flipper). "
 image: /assets/images/pinball/rollergames.jpg
+ai_generated: true
 ---
 
 # 🛼 Rollergames - Strategy Guide

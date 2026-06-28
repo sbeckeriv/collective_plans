@@ -16,6 +16,7 @@ notable_features: "Flippers (4, includes one shorter \"timed Flipsave\" flipper 
 features:
   - "Widebody"
 image: /assets/images/pinball/embryon.jpg
+ai_generated: true
 ---
 
 # 🧬 Embryon - Strategy Guide

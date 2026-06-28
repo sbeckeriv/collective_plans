@@ -16,6 +16,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Captive ball (
 features:
   - "Pro edition"
 image: /assets/images/pinball/metallica-pro.jpg
+ai_generated: true
 ---
 
 # 🤘 Metallica - Strategy Guide

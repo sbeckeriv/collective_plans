@@ -19,6 +19,7 @@ notable_features: "Flippers (3), Pop bumpers (2), Slingshots (3), Ramps (3), Aut
 features:
   - "Widebody"
 image: /assets/images/pinball/demolition-man.jpg
+ai_generated: true
 ---
 
 # 🧊 Demolition Man - Strategy Guide

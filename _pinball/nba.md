@@ -15,6 +15,7 @@ sound_by: "David Thiel"
 software_by: "Lonnie D. Ropp, Lyman F. Sheats Jr."
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (9), 3-bank drop targets (1), Captive ball (1), Spinning disc (1), 2- and 3-ball multiball, Trajectory up-kicker (1) sends the ball airborne towards the hoop. Ramp-on-a-ramp elevates to send a fast ball airborne towards the hoop. Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 250 lbs. "
 image: /assets/images/pinball/nba.jpg
+ai_generated: true
 ---
 
 # 🏀 NBA - Strategy Guide

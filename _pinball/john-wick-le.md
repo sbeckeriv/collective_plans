@@ -14,6 +14,7 @@ artist: Randy Martinez
 type: SS
 theme: Action/Movies
 players: 4
+ai_generated: true
 ---
 
 # 🎯 John Wick LE Pinball - Ultimate Scoring Guide

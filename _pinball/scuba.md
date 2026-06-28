@@ -13,6 +13,7 @@ artist: "Art Stenholm"
 model_number: "289"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (7), Free ball return lane. 3 or 5 ball play. Maximum displayed point score is 9,999 points per player. Sound: 3 chimes, knocker "
 image: /assets/images/pinball/scuba.jpg
+ai_generated: true
 ---
 
 # 🤿 Scuba - Strategy Guide

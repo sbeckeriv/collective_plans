@@ -20,6 +20,7 @@ features:
   - "Pro edition"
   - "Widebody"
 image: /assets/images/pinball/the-wizard-of-oz.jpg
+ai_generated: true
 ---
 
 # 🌈 The Wizard of Oz - Strategy Guide

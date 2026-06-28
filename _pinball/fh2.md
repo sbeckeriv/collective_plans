@@ -8,6 +8,7 @@ manufacture_date: 2021-11-01
 features:
   - "Conversion kit"
 image: /assets/images/pinball/fh2.jpg
+ai_generated: true
 ---
 
 # 🤡 Funhouse 2.0: Rudy's Nightmare - Strategy Guide

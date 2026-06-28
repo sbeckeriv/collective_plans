@@ -7,6 +7,7 @@ year: 1997
 manufacture_date: 1997-01-01
 ipdb_id: 4338
 image: /assets/images/pinball/ngg.jpg
+ai_generated: true
 ---
 
 # ⛳ No Good Gofers - Strategy Guide

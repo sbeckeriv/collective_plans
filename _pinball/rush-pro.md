@@ -14,6 +14,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/rush-pro.jpg
+ai_generated: true
 ---
 
 # 🎸 Rush (Pro) - Strategy Guide

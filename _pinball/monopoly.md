@@ -17,6 +17,7 @@ software_by: "Louis Koziarz, Greg Dunlap"
 model_number: "75"
 notable_features: "Rotating flipper, LED Marquee, Pop Bumpers (6), Flippers (3, not counting rotating flipper), Multiball (4 ball). Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 260 lbs. "
 image: /assets/images/pinball/monopoly.jpg
+ai_generated: true
 ---
 
 # 🎲 Monopoly - Strategy Guide

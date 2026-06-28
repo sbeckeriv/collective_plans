@@ -13,6 +13,7 @@ artist: "Christian Marche"
 model_number: "401"
 notable_features: "Flippers (2), Pop bumpers (5), Slingshots (2), Standup targets (4), Kickout holes (2), Right-side ball return gates (2), Left-side detour gate (1), Playfield spinner, Up-post between flippers. End-of-ball bonus. 3 or 5 ball play. "
 image: /assets/images/pinball/stardust.jpg
+ai_generated: true
 ---
 
 # ✨ Stardust - Strategy Guide

@@ -18,6 +18,7 @@ features:
   - electromechanical
 image: /assets/images/pinball/4-aces.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🃏 4 Aces (Williams, 1970) — Complete Strategy Guide

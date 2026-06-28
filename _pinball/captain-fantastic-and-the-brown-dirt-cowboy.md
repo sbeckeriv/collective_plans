@@ -15,6 +15,7 @@ artist: "Dave Christensen"
 model_number: "1062"
 notable_features: "Flippers (4), Pop bumpers (3), Slingshots (2), Star rollovers (8), Standup targets (2), 5-bank drop targets (1), Right outlane detour gate. End-of-ball bonus. Maximum displayed point score depends on the version: Early production Over The Top games show 99,990 points per player. Modified production games show 199,990 points per player. "
 image: /assets/images/pinball/captain-fantastic-and-the-brown-dirt-cowboy.jpg
+ai_generated: true
 ---
 
 # 🎸 Captain Fantastic and the Brown Dirt Cowboy - Strategy Guide

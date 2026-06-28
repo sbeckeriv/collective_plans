@@ -12,6 +12,7 @@ players: 4
 ipdb_id: 4014
 image: /assets/images/pinball/junk-yard.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🔧 Junk Yard Pinball Strategy Guide

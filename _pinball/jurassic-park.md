@@ -17,6 +17,7 @@ software_by: "Neil Falconer, Lonnie D. Ropp, John Carpenter"
 model_number: "500-5520-01"
 notable_features: "Flippers (3), Pop bumpers (3), Multiball (6), Captive ball, Autoplunger, Shaker motor. "
 image: /assets/images/pinball/jurassic-park.jpg
+ai_generated: true
 ---
 
 # 🦖 Jurassic Park (Data East, 1993) - Strategy Guide

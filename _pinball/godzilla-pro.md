@@ -16,6 +16,7 @@ notable_features: "Flippers (3), Pop bumper (1), Slingshots (2), Standup targets
 features:
   - "Pro edition"
 image: /assets/images/pinball/godzilla-pro.jpg
+ai_generated: true
 ---
 
 # 🦎 GODZILLA (Pro) Pinball Machine - Complete Strategy Guide

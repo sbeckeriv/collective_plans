@@ -7,6 +7,7 @@ year: 1990
 manufacture_date: 1990-01-04
 ipdb_id: 985
 image: /assets/images/pinball/gs.jpg
+ai_generated: true
 ---
 
 # 🎰 The Bally Game Show - Strategy Guide

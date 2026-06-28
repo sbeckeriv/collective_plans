@@ -19,6 +19,7 @@ features:
   - BOOM button
 image: /assets/images/pinball/deadpool.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # Deadpool Pinball: The Complete Strategy Guide

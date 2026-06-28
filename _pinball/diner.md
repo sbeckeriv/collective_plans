@@ -17,6 +17,7 @@ software_by: "Jim Strompolis"
 model_number: "571"
 notable_features: "Flippers (2), Pop bumpers (3), 3-bank drop targets (2), Ramps (2), Cellar hole (1), 2-ball multiball. Two backbox animations (clock hands count time, and spring-mounted diners bobble when game is shaken). "
 image: /assets/images/pinball/diner.jpg
+ai_generated: true
 ---
 
 # 🍔 Diner - Strategy Guide

@@ -17,6 +17,7 @@ software_by: "Mark Penacho"
 model_number: "568"
 notable_features: "Flippers (3), Pop bumpers (3), Vertical upkickers (2), 3-bank drop targets (1), Kick-out hole (1), Spinning target (1), Messenger ball (1), Shaker motor. Machine shakes at certain times during a game to simulate an earthquake. Diverter opens a pathway between California and Nevada to simulate a faultline. "
 image: /assets/images/pinball/earthshaker.jpg
+ai_generated: true
 ---
 
 # 🌋 Earthshaker! Ultimate Strategy Guide

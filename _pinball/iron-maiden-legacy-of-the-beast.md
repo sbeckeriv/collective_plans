@@ -20,6 +20,7 @@ features:
   - "Pro edition"
 image: /assets/images/pinball/iron-maiden-legacy-of-the-beast.jpg
 manufacturer_url: https://sternpinball.com
+ai_generated: true
 ---
 # 🎸 Iron Maiden: Legacy of the Beast Premium
 ## Complete Strategy Guide to 1 Billion Points

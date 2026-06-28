@@ -17,6 +17,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Slingshots (2), Kinetic divert
 features:
   - "Limited edition"
 image: /assets/images/pinball/guns-n-roses-le.jpg
+ai_generated: true
 ---
 
 # 🎸 Guns N' Roses - Strategy Guide

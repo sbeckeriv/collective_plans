@@ -8,6 +8,7 @@ manufacture_date: 2024-09-12
 features:
   - "Limited edition"
 image: /assets/images/pinball/avatar-the-battle-for-pandora-le.jpg
+ai_generated: true
 ---
 
 # 🌿 Avatar: The Battle for Pandora - Strategy Guide

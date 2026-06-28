@@ -17,6 +17,7 @@ software_by: "Lonnie D. Ropp, Lyman F. Sheats Jr., Dwight Sullivan, Keith P. Joh
 model_number: "I-00A4"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (4), Standup targets (19), Captive balls (3), Newton balls (2), Spinning targets (2), Kick-out hole (1), Scoop (1), Stop magnet (1), Plunger skill shot, 8-ball multiball. The upper playfield has a captive ball area with two slingshots. The manufacturer provided the wiring for an optional factory shaker motor. Actual measured weight: 258 lbs (includes legs). "
 image: /assets/images/pinball/indiana-jones.jpg
+ai_generated: true
 ---
 
 # 🗿 Indiana Jones - Strategy Guide

@@ -7,6 +7,7 @@ year: 1993
 manufacture_date: 1993-01-01
 ipdb_id: 2768
 image: /assets/images/pinball/wh2o.jpg
+ai_generated: true
 ---
 
 # 🌊 White Water (Williams, 1993) - Strategy Guide

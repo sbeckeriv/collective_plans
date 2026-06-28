@@ -19,6 +19,7 @@ notable_features: "Doc Ock's magnet that simulates a \"Fusion Malfunction\" by h
 features:
   - "Pro edition"
 image: /assets/images/pinball/spider-man.jpg
+ai_generated: true
 ---
 
 # 🕷️ Spider-Man - Strategy Guide

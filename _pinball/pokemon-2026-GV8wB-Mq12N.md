@@ -8,6 +8,7 @@ manufacture_date: 2026-02-13
 features:
   - "Pro edition"
 image: /assets/images/pinball/pokemon-2026-GV8wB-Mq12N.jpg
+ai_generated: true
 ---
 
 # 🎮 POKÉMON (Pro) Pinball Machine - Complete Strategy Guide

@@ -13,6 +13,7 @@ artist: "Kevin O'Connor"
 model_number: "1106-E"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 5-bank drop targets (1), Standup targets (4), Kick-out hole (1), Spinning target (1), Right outlane ball return gate. Maximum displayed point score is 999,990 points per player. "
 image: /assets/images/pinball/supersonic-1979.jpg
+ai_generated: true
 ---
 
 # ✈️ Supersonic - Strategy Guide

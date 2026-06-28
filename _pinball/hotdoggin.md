@@ -15,6 +15,7 @@ notable_features: "Flippers (3), Pop bumpers (4), Slingshots (2), 4-bank drop ta
 features:
   - "Widebody"
 image: /assets/images/pinball/hotdoggin.jpg
+ai_generated: true
 ---
 
 # ⛷️ Hotdoggin' - Strategy Guide

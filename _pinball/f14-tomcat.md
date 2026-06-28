@@ -12,6 +12,7 @@ players: 4
 ipdb_id: 804
 image: /assets/images/pinball/f-14-tomcat.jpg
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🛩️ F-14 Tomcat Pinball Strategy Guide

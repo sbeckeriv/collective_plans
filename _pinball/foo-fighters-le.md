@@ -14,6 +14,7 @@ players: 4
 features:
   - "Limited edition"
 image: /assets/images/pinball/foo-fighters-le.jpg
+ai_generated: true
 ---
 
 # 🎸 Foo Fighters LE Pinball - Ultimate Strategy Guide

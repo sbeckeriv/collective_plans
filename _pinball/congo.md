@@ -16,6 +16,7 @@ sound_by: "Vince Pontarelli"
 software_by: "Bill Grupp, Dean Grover"
 model_number: "50050"
 image: /assets/images/pinball/congo.jpg
+ai_generated: true
 ---
 
 # 🐒 CONGO Pinball Machine - Complete Strategy Guide

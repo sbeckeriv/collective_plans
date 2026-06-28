@@ -18,6 +18,7 @@ notable_features: "Notable Features: Flippers (2), Pop bumpers (4), Slingshots (
 features:
   - "Pro edition"
 image: /assets/images/pinball/mustang-pro.jpg
+ai_generated: true
 ---
 
 # 🐎 Mustang - Strategy Guide

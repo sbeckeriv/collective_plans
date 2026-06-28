@@ -16,6 +16,7 @@ features:
   - "Pro edition"
 image: /assets/images/pinball/james-bond-007-pro.jpg
 manufacturer_url: https://sternpinball.com/game/james-bond-007/
+ai_generated: true
 ---
 # 🎯 James Bond 007 Pro - Complete Strategy Guide
 ## *Your Mission: 1 Billion Points*

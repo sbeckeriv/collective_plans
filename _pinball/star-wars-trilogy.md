@@ -12,6 +12,7 @@ players: 4
 ipdb_id: 4054
 image: /assets/images/pinball/star-wars-trilogy.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🌟 Star Wars Trilogy Pinball Strategy Guide

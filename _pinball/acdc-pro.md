@@ -16,6 +16,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/acdc-pro.jpg
+ai_generated: true
 ---
 
 # ⚡ AC/DC Pinball Machine - Strategy Guide

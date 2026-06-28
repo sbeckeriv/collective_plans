@@ -19,6 +19,7 @@ notable_features: "Flippers (3), Spinning target (1), Standup targets (6), Magne
 features:
   - "Limited edition"
 image: /assets/images/pinball/alice-coopers-nightmare-castle.jpg
+ai_generated: true
 ---
 
 # 🧟 Alice Cooper's Nightmare Castle - Strategy Guide

@@ -18,6 +18,7 @@ model_number: "573"
 notable_features: "Flippers (2), Pop bumpers (3), Ramps (2), 3-bank standup targets (3), Kick-out holes (3), 2-ball Multiball. A plunger skill shot shoots the ball into the rollunder spinner lane for a random award. The right ramp has a diverter which routes the ball either to the lock area or to a habitrail leading to the left inlane. "
 image: /assets/images/pinball/police-force.jpg
 manufacturer_url: https://en.wikipedia.org/wiki/Williams_Electronics
+ai_generated: true
 ---
 # 🚔 Police Force Pinball - Ultimate Strategy Guide
 ## *The Path to Maximum Score*

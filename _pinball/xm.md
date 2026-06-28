@@ -9,6 +9,7 @@ ipdb_id: 5822
 features:
   - "Pro edition"
 image: /assets/images/pinball/xm.jpg
+ai_generated: true
 ---
 
 # ⚡ X-Men (Stern, 2012) - Strategy Guide

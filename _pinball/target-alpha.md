@@ -15,6 +15,7 @@ notable_features: "Flippers (4), Pop bumpers (2), Slingshots (2), 10-bank drop t
 features:
   - "Replay"
 image: /assets/images/pinball/target-alpha.jpg
+ai_generated: true
 ---
 
 # 🎯 Target Alpha - Strategy Guide

@@ -1,3 +1,13 @@
+/* Table overflow — prevents wide tables from blowing out the viewport on mobile */
+.machine-description table,
+.post-content table,
+article table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
+}
+
 /* Machine grid - responsive card layout */
 .machine-grid {
   display: grid;

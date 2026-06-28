@@ -14,6 +14,7 @@ artist: "Dave Christensen"
 model_number: "1104-E"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (2), 4-bank drop targets (2), Kick-out hole (1). End-of-ball bonus. "
 image: /assets/images/pinball/mata-hari.jpg
+ai_generated: true
 ---
 
 # 🕵️‍♀️ Mata Hari - Strategy Guide

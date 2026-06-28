@@ -12,6 +12,7 @@ type: Solid State
 theme: Sci-Fi / Movie License (Dune 2021/2024)
 players: 1-4
 ipdb_id: 3290
+ai_generated: true
 ---
 
 # 🏜️ DUNE Pinball Machine - Complete Strategy Guide

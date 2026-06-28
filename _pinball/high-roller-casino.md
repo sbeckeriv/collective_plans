@@ -17,6 +17,7 @@ software_by: "Keith P. Johnson, Lonnie D. Ropp, Dwight Sullivan"
 model_number: "65"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 4-bank drop targets (4), Standup targets (9), Spinning target (1), Magnet (1), Backglass light animation (roulette wheel spins). The magnet is located under the roulette and stops the ball from completing the loop shot. An elevating ramp in front of the slot machine has three positions of elevation. A physical ball lock can hold three balls. Number of pinballs installed: 4 "
 image: /assets/images/pinball/high-roller-casino.jpg
+ai_generated: true
 ---
 
 # 🎰 High Roller Casino - Strategy Guide

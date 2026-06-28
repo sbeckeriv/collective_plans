@@ -17,6 +17,7 @@ type: SS
 theme: Horror / Comedy / Licensed
 players: 4
 ipdb_id: 7004
+ai_generated: true
 ---
 # 🧛‍♀️ Elvira's House of Horrors: Blood Red Kiss Edition
 ## Complete Strategy Guide — Path to 1 Billion Points

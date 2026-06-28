@@ -16,6 +16,7 @@ software_by: "Rob Quinn"
 model_number: "500-5506-01"
 notable_features: "Flippers (2), Multiball (3 balls) "
 image: /assets/images/pinball/robocop.jpg
+ai_generated: true
 ---
 # 🤖 RoboCop Pinball Strategy Guide
 ## Data East, 1989 | "The Future in Law Enforcement"

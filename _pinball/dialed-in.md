@@ -19,6 +19,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Magnets (5), Moving target (1)
 features:
   - "Pro edition"
 image: /assets/images/pinball/dialed-in.jpg
+ai_generated: true
 ---
 
 # 📱 Dialed In! - Strategy Guide

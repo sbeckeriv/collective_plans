@@ -7,6 +7,7 @@ manufacture_date: 2024-09-04
 features:
   - "Pro edition"
 image: /assets/images/pinball/the-uncanny-x-men-pro.jpg
+ai_generated: true
 ---
 
 # 🦸 THE UNCANNY X-MEN Pinball Machine - Complete Strategy Guide

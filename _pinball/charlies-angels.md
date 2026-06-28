@@ -14,6 +14,7 @@ artist: "Gordon Morison"
 model_number: "425"
 notable_features: "Flippers (2), Pop bumpers (2), Slingshots (2), 5-bank drop targets (1), 3-bank drop targets (1). Standup target (1). "
 image: /assets/images/pinball/charlies-angels.jpg
+ai_generated: true
 ---
 
 # 👮‍♀️ Charlie's Angels - Strategy Guide

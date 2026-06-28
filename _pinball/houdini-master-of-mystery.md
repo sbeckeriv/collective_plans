@@ -16,6 +16,7 @@ software_by: "Josh Kugler"
 model_number: "GAM0001"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Stereo speakers (6), Magnets (3), Catapults (2), Theater spotlights (2), Multiball. Game-specific flipper toppers. Factory mylar in high-wear areas. Backbox has 15.6 inch color LCD monitor. Playfield has a 4.3 inch LCD. RGB LEDs. Glare-reduced playfield glass. "
 image: /assets/images/pinball/houdini-master-of-mystery.jpg
+ai_generated: true
 ---
 
 # 🎩 Houdini: Master of Mystery - Strategy Guide

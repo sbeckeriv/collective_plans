@@ -19,6 +19,7 @@ features:
   - "Premium edition"
 image: /assets/images/pinball/black-knight-sword-of-rage-premium.jpg
 manufacturer_url: https://sternpinball.com/game/black-knight/
+ai_generated: true
 ---
 
 # ⚔️ Black Knight: Sword of Rage Premium - Complete Strategy Guide

@@ -17,6 +17,7 @@ software_by: "Neil Falconer, Orin Day, Lonnie D. Ropp"
 model_number: "71"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2). Pressing flipper buttons 2x left, 2x right, 2x left, 2x right during attract mode will display the personnel credits on the DMD. "
 image: /assets/images/pinball/south-park.jpg
+ai_generated: true
 ---
 
 # 🏔️ South Park - Strategy Guide

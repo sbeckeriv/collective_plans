@@ -19,6 +19,7 @@ notable_features: "Flippers (4), Slingshots (2), Autoplungers (2), 6-ball multib
 features:
   - "Widebody"
 image: /assets/images/pinball/judge-dredd.jpg
+ai_generated: true
 ---
 
 # ⚖️ JUDGE DREDD Pinball Machine - Complete Strategy Guide

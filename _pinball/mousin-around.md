@@ -16,6 +16,7 @@ software_by: "Jim Strompolis"
 model_number: "2009"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Ball Eater targets (2). "
 image: /assets/images/pinball/mousin-around.jpg
+ai_generated: true
 ---
 
 # 🐭 Mousin' Around! Pinball Machine - Strategy Guide

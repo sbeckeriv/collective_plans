@@ -6,6 +6,7 @@ manufacturer: Jersey Jack Pinball
 year: 2023
 manufacture_date: 2023-10-01
 image: /assets/images/pinball/elton-john.jpg
+ai_generated: true
 ---
 
 # 🎹 ELTON JOHN Pinball Machine - Complete Strategy Guide

@@ -15,6 +15,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Passive bumpers (3), Slingshot
 features:
   - "Replay"
 image: /assets/images/pinball/buckaroo.jpg
+ai_generated: true
 ---
 
 # 🤠 Buckaroo - Strategy Guide

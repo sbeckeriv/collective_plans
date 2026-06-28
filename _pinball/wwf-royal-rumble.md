@@ -19,6 +19,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Slingshots (2), 4-bank drop ta
 features:
   - "Widebody"
 image: /assets/images/pinball/wwf-royal-rumble.jpg
+ai_generated: true
 ---
 
 # 🤼 WWF Royal Rumble (Data East, 1994) - Strategy Guide

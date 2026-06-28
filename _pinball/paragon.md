@@ -16,6 +16,7 @@ notable_features: "Flippers (4), Pop bumpers (4), Slingshots (2), 4-in-line drop
 features:
   - "Widebody"
 image: /assets/images/pinball/paragon.jpg
+ai_generated: true
 ---
 
 # 🐉 Paragon - Strategy Guide

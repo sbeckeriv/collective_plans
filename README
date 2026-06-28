@@ -198,7 +198,8 @@ collective_plans/
 ├── _layouts/
 │   └── machine.html           # Individual machine page template
 ├── _includes/
-│   └── footer.html            # Custom footer with GitHub link
+│   ├── footer.html            # Custom footer with GitHub link
+│   └── head.html              # Custom <head>: PWA meta, AI signals, service worker registration
 ├── _sass/
 │   └── custom.scss            # Custom styles (grid, filters, images)
 ├── assets/
@@ -210,8 +211,60 @@ collective_plans/
 ├── .ruby-version              # Ruby version (3.3.0)
 ├── Gemfile                    # Ruby dependencies
 ├── index.md                   # Homepage with machine grid
-└── pinball.html               # Filterable machine listing
+├── pinball.html               # Filterable machine listing
+├── manifest.json              # PWA manifest (name, icons, display mode)
+└── sw.js                      # Service worker (offline caching)
 ```
+
+---
+
+## PWA & Offline Support
+
+The site is a Progressive Web App (PWA). Visitors can install it to their home screen and read guides offline — useful at arcades with poor signal.
+
+### Installing on Android
+
+1. Open the site in Chrome
+2. Visit a couple of pages (Chrome requires some engagement before offering the prompt)
+3. Tap the **"Add to Home Screen"** banner, or open Chrome's menu → **Install app**
+
+The app launches in standalone mode (no browser chrome) and any guide page you've previously visited will load offline.
+
+### Installing on iOS
+
+1. Open the site in Safari
+2. Tap the Share button → **Add to Home Screen**
+
+### How caching works
+
+| Content type | Strategy |
+| ------------ | -------- |
+| Guide pages (HTML) | Network-first, cache fallback — fresh when online, readable offline |
+| Images | Cache-first — pinball images don't change |
+| CSS / JS | Cache-first |
+| Shell (homepage, CSS, manifest, icon) | Pre-cached on install |
+
+### Bumping the cache version
+
+When you do a significant content push, update the version string at the top of `sw.js`:
+
+```js
+// sw.js
+const CACHE = 'pinball-v1'; // ← change to pinball-v2, pinball-v3, etc.
+```
+
+The service worker's `activate` handler automatically deletes the old cache version on the user's next visit, so they pick up the new content.
+
+### AI content signals
+
+All guides include two meta tags that signal AI-generated content to crawlers:
+
+```html
+<meta name="ai-generated" content="true">
+<meta name="robots" content="noai, noimageai">
+```
+
+These are controlled by the `ai_generated: true` field in each guide's frontmatter. Adding that field to any page opts it into the signals; omitting it leaves the page untagged.
 
 ---
 

@@ -8,6 +8,7 @@ manufacture_date: 2024-01-04
 features:
   - "Pro edition"
 image: /assets/images/pinball/jaws-pro.jpg
+ai_generated: true
 ---
 
 # 🦈 JAWS - Strategy Guide

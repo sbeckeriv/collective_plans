@@ -18,6 +18,7 @@ features:
   - "Limited edition"
 manufacturer_url: https://sternpinball.com/game/the-mandalorian/
 image: /assets/images/pinball/the-mandalorian-le.jpg
+ai_generated: true
 ---
 
 # 🎯 The Mandalorian LE Pinball Guide

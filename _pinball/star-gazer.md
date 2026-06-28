@@ -13,6 +13,7 @@ artist: "Gerry Simkus"
 model_number: "127"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 3-bank drop targets (3), Spinning targets (3), Stand-up targets (12, one for each Zodiac sign). There are no side lane flipper feeds. Instead, there are semi-circle concave scoops feeding each flipper. Hitting one of the drops on the top left bank will stop the vari-value lights, locking in a value for each spin of the adjacent spinner and an inverse (converse) value of knocking the rest of that bank of drops down. "
 image: /assets/images/pinball/star-gazer.jpg
+ai_generated: true
 ---
 
 # 🌟 STAR GAZER Pinball Machine - Strategy Guide

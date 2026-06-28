@@ -8,6 +8,7 @@ manufacture_date: 2017-06-01
 features:
   - "Remake"
 image: /assets/images/pinball/attack-from-mars-remake.jpg
+ai_generated: true
 ---
 
 # 🚀 ATTACK FROM MARS (Remake) - Complete Strategy Guide

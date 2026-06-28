@@ -17,6 +17,7 @@ software_by: "Keith P. Johnson, Dwight Sullivan"
 model_number: "I-0088"
 notable_features: "Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 250 lbs. "
 image: /assets/images/pinball/world-poker-tour.jpg
+ai_generated: true
 ---
 
 # ♠️ World Poker Tour (Stern, 2006) - Strategy Guide

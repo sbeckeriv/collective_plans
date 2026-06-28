@@ -13,6 +13,7 @@ artist: "Margaret Hudson, Pat McMahon"
 model_number: "1299"
 notable_features: "Flippers (2), 5-bank drop targets (1), Spinning targets (2), Kick-out holes (2), Horseshoe captive ball lane (1). No pop bumpers, no slingshots, no outlanes. No plunger; ball is served from the outhole. Video screen displays score and also plays a video game during pauses in the pinball game. Joystick on cabinet front for use with video game. "
 image: /assets/images/pinball/baby-pac-man.jpg
+ai_generated: true
 ---
 
 # 👶 Baby Pac-Man - Strategy Guide

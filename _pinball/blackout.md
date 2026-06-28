@@ -16,6 +16,7 @@ software_by: "Paul Dussault"
 model_number: "495"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), 3-bank drop targets (2), Spinning targets (3), Kick-out hole (1). Lane change. "
 image: /assets/images/pinball/blackout.jpg
+ai_generated: true
 ---
 
 # 🌑 Blackout Pinball Machine - Strategy Guide

@@ -12,6 +12,7 @@ players: 4
 ipdb_id: 3685
 image: /assets/images/pinball/who-dunnit.jpg
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🔍 WHO Dunnit Pinball Guide

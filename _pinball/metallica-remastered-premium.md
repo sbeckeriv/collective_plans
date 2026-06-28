@@ -16,6 +16,7 @@ artist: Dirty Donny (original artwork)
 type: SS
 theme: Music / Heavy Metal
 players: 4
+ai_generated: true
 ---
 
 # 🎸 Metallica Remastered Premium - Ultimate Strategy Guide

@@ -17,6 +17,7 @@ software_by: "Dwight Sullivan, Lonnie D. Ropp, Orin Day"
 model_number: "76"
 notable_features: "Cabinet advertised as 55 inches long, 27 inches wide, and 75 1/2 inches high; 260 lbs. Number of pinballs installed: 4 "
 image: /assets/images/pinball/playboy-2002.jpg
+ai_generated: true
 ---
 
 # 🐇 Playboy - Strategy Guide

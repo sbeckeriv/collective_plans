@@ -7,6 +7,7 @@ year: 2003
 manufacture_date: 2003-01-02
 ipdb_id: 4674
 image: /assets/images/pinball/tspp.jpg
+ai_generated: true
 ---
 
 # 🍩 The Simpsons Pinball Party - Strategy Guide

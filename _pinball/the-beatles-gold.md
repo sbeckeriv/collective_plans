@@ -17,6 +17,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/the-beatles-gold.jpg
+ai_generated: true
 ---
 
 # 🎸 The Beatles Beatlemania Strategy Guide

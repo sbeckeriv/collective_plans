@@ -9,6 +9,7 @@ ipdb_id: 6319
 features:
   - "Conversion kit"
 image: /assets/images/pinball/bop20.jpg
+ai_generated: true
 ---
 
 # 🤖 Bride of Pinbot 2.0 - Strategy Guide

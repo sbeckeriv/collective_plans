@@ -1,0 +1,40 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- feed_meta -%}
+
+  <!-- Favicon -->
+  <link rel="icon" href="{{ "/assets/images/icon.svg" | relative_url }}" type="image/svg+xml">
+
+  <!-- PWA / Install App -->
+  <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
+  <meta name="theme-color" content="#1a1a2e">
+
+  <!-- iOS home screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Pinball">
+  <link rel="apple-touch-icon" href="{{ "/assets/images/icon.svg" | relative_url }}">
+
+  {%- if page.ai_generated -%}
+  <!-- AI content signals -->
+  <meta name="ai-generated" content="true">
+  <meta name="robots" content="noai, noimageai">
+  {%- endif -%}
+
+  {%- if jekyll.environment == 'production' and site.google_analytics -%}
+    {%- include google-analytics.html -%}
+  {%- endif -%}
+
+  <!-- Service worker for offline support + PWA install -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}');
+      });
+    }
+  </script>
+</head>

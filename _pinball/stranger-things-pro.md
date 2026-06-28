@@ -15,6 +15,7 @@ notable_features: "Flippers (2), Pop bumpers (2), Slingshots (3), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/stranger-things-pro.jpg
+ai_generated: true
 ---
 # 🔦 Stranger Things Pro - Ultimate Strategy Guide
 ## Path to 1 Billion Points

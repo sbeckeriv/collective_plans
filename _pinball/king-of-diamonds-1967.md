@@ -15,6 +15,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Roto-targets (
 features:
   - "Replay"
 image: /assets/images/pinball/king-of-diamonds-1967.jpg
+ai_generated: true
 ---
 
 # 👑 King of Diamonds - Complete Strategy Guide

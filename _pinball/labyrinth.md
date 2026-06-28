@@ -18,6 +18,7 @@ features:
   - shot multipliers
 image: /assets/images/pinball/labyrinth.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🔮 Jim Henson's Labyrinth Pinball

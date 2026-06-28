@@ -9,6 +9,7 @@ manufacture_date: 2025-09-25
 features:
   - "Premium edition"
 image: /assets/images/pinball/swfote-2025-Gxv81-Mo1rp-A9vrL.jpg
+ai_generated: true
 ---
 
 # ⚔️ Star Wars: Fall of the Empire (Premium) - Strategy Guide

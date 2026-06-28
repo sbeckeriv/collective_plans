@@ -17,6 +17,7 @@ software_by: "Koen Heltzel"
 model_number: "DP-069"
 image: /assets/images/pinball/the-big-lebowski.jpg
 manufacturer_url: https://www.dutchpinball.com/
+ai_generated: true
 ---
 
 # 🎳 The Big Lebowski Pinball - Ultimate Strategy Guide

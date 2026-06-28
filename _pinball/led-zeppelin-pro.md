@@ -15,6 +15,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/led-zeppelin-pro.jpg
+ai_generated: true
 ---
 
 # 🎸 Led Zeppelin - Strategy Guide

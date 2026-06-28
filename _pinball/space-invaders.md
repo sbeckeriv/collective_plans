@@ -15,6 +15,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Passive bumpers (4), Slingshot
 features:
   - "Widebody"
 image: /assets/images/pinball/space-invaders.jpg
+ai_generated: true
 ---
 
 # 👾 Space Invaders - Strategy Guide

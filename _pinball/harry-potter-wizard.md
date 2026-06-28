@@ -16,6 +16,7 @@ type: SS
 theme: Fantasy / Movies
 players: 1-4
 ipdb_id: 3304
+ai_generated: true
 ---
 
 # 🧙 Harry Potter Wizard Edition - Complete Strategy Guide

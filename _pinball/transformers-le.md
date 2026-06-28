@@ -12,6 +12,7 @@ players: 1-4
 ipdb_id: 5753
 image: /assets/images/pinball/transformers-le.png
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🤖 Transformers LE Pinball Guide

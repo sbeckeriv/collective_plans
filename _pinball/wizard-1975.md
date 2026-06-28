@@ -13,6 +13,7 @@ artist: "Dave Christensen"
 model_number: "1027"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (8), Star rollovers (8), Flip flags (4), Kick-out hole (1), Spinning target (1). End-of-ball bonus. One of the standup targets is recessed. Maximum displayed point score is 199,990 points per player. Replay wheel maximum: 25 Sound: 3 chimes, knocker "
 image: /assets/images/pinball/wizard-1975.jpg
+ai_generated: true
 ---
 
 # 🎸 Wizard! (Bally, 1975) - Strategy Guide

@@ -8,6 +8,7 @@ manufacture_date: 2024-03-09
 features:
   - "Limited edition"
 image: /assets/images/pinball/barry-os-barbecue-challenge-le.jpg
+ai_generated: true
 ---
 
 # 🍖 Barry O's Barbecue Challenge - Strategy Guide

@@ -8,6 +8,7 @@ manufacture_date: 2023-03-13
 features:
   - "Premium edition"
 image: /assets/images/pinball/pulp-fiction-se.jpg
+ai_generated: true
 ---
 
 # 💼 Pulp Fiction - Strategy Guide

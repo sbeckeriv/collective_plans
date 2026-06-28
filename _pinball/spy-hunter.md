@@ -12,6 +12,7 @@ players: 4
 ipdb_id: 2328
 image: /assets/images/pinball/spy-hunter.jpg
 updated: 2026-04-04
+ai_generated: true
 ---
 
 # 🕵️ Spy Hunter Pinball Strategy Guide

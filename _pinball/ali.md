@@ -13,6 +13,7 @@ artist: "Bob Timm"
 model_number: "119"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (5), Kick-out holes (4), 3-bank drop targets (2), Spinning targets (1), Horseshoe lane (1). On/off switch for optional background fight tones. "
 image: /assets/images/pinball/ali.jpg
+ai_generated: true
 ---
 
 # 🥊 Ali Pinball Machine - Strategy Guide

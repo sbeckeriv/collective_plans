@@ -17,6 +17,7 @@ notable_features: "Flippers (2), Pop bumpers (4), Slingshots (4), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/kiss-pro.jpg
+ai_generated: true
 ---
 
 # 🎸 KISS (Stern, 2015) - Strategy Guide

@@ -16,6 +16,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Standup target
 features:
   - "Pro edition"
 image: /assets/images/pinball/eight-ball-deluxe.jpg
+ai_generated: true
 ---
 
 # 🎱 Eight Ball Deluxe - Strategy Guide

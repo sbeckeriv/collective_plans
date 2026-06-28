@@ -14,6 +14,7 @@ software_by: "Neil Falconer, Orin Day"
 model_number: "40"
 notable_features: "Ball Diverter drops ball out of Godzilla's Mouth, 4 Electromagnets under playfield, Shaker Motor "
 image: /assets/images/pinball/godzilla.jpg
+ai_generated: true
 ---
 
 # 🦖 Godzilla (Sega, 1998) - Strategy Guide

@@ -13,6 +13,7 @@ artist: "Kevin O'Connor"
 model_number: "1198"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (2), Kick-out holes (2), Standup targets (2), 3-bank drop targets (1), 4-in-line drop targets (1), Spinning target (1), Star rollover (1). Bounce-back outlanes allow the player to nudge a draining ball back into play. "
 image: /assets/images/pinball/viking-1979.jpg
+ai_generated: true
 ---
 
 # ⚔️ VIKING Pinball Machine - Strategy Guide

@@ -13,6 +13,7 @@ artist: "Kevin O'Connor"
 model_number: "1192"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 3-bank drop targets (3), Spinning targets (2), Messenger ball (1), Kick-out hole (1), Standup target (1). "
 image: /assets/images/pinball/mystic.jpg
+ai_generated: true
 ---
 
 # 🔮 MYSTIC Pinball Machine - Strategy Guide

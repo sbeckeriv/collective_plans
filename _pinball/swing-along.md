@@ -13,6 +13,7 @@ artist: "Roy Parker"
 model_number: "195"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (4), Spinning targets (3). Maximum displayed point score is 1,999 points per player. Replay wheel maximum: 26 Sound: 2 bells, knocker "
 image: /assets/images/pinball/swing-along.jpg
+ai_generated: true
 ---
 
 # 🎵 Swing-Along - Strategy Guide

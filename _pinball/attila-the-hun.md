@@ -14,6 +14,7 @@ artist: "Larry M. Blazek, Tom Schmelzer"
 model_number: "260"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), 3-bank drop targets (2), Captive ball (1), Spinning target (1). "
 image: /assets/images/pinball/attila-the-hun.jpg
+ai_generated: true
 ---
 
 # ⚔️ Attila the Hun Pinball Machine - Strategy Guide

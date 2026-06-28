@@ -15,6 +15,7 @@ notable_features: "Flippers (2) Pop bumpers (4), Mushroom bumpers (2), Slingshot
 features:
   - "Replay"
 image: /assets/images/pinball/king-tut.jpg
+ai_generated: true
 ---
 
 # 👑 King Tut - Strategy Guide

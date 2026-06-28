@@ -16,6 +16,7 @@ software_by: "Mike Boon, Cameron Silver"
 model_number: "50048"
 notable_features: "Flippers (2), Pop bumpers (3), Mechanical backbox animation (spider spins around when ball falls into playfield trap. Pressing a flipper button stops the spider and awards the indicated feature). "
 image: /assets/images/pinball/scared-stiff.jpg
+ai_generated: true
 ---
 
 # 🕷️ Scared Stiff - Strategy Guide

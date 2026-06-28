@@ -17,6 +17,7 @@ software_by: "Craig Sylla"
 model_number: "50030"
 notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Vertical up-kicker (1), Magnet in right loop. Unlimited buy-in balls per player (operator option). Actual measured weight: 278 lbs (includes legs). "
 image: /assets/images/pinball/dirty-harry.jpg
+ai_generated: true
 ---
 
 # 🔫 DIRTY HARRY Pinball Machine - Complete Strategy Guide

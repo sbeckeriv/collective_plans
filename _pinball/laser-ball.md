@@ -17,6 +17,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Star rollovers
 features:
   - "Widebody"
 image: /assets/images/pinball/laser-ball.jpg
+ai_generated: true
 ---
 
 # 🎯 Laser Ball Strategy Guide

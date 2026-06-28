@@ -17,6 +17,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Pinballs (4). 
 features:
   - "Pro edition"
 image: /assets/images/pinball/batman-the-dark-knight.jpg
+ai_generated: true
 ---
 
 # 🦇 Batman: The Dark Knight - Strategy Guide

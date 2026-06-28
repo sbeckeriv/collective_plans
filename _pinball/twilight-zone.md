@@ -19,6 +19,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Ramps (2), Dual left inlanes, 
 features:
   - "Widebody"
 image: /assets/images/pinball/twilight-zone.jpg
+ai_generated: true
 ---
 
 # 🌀 Twilight Zone (Bally/Williams, 1993) - Strategy Guide

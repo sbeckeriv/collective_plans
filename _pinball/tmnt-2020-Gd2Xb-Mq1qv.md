@@ -9,6 +9,7 @@ ipdb_id: 6730
 features:
   - "Pro edition"
 image: /assets/images/pinball/tmnt-2020-Gd2Xb-Mq1qv.jpg
+ai_generated: true
 ---
 
 # 🐢 Teenage Mutant Ninja Turtles (2020) — Complete Strategy Guide

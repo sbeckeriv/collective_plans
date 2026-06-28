@@ -15,6 +15,7 @@ software_by: "Alan McNeil"
 model_number: "113"
 notable_features: "Flippers (3), Pop bumper (1), Passive bumpers (2), Slingshots (2), Star rollovers (3), 3-bank drop targets (3), 6-bank memory drop targets (1), Spinning target (1), Standup target (1). Mini-post screw between flippers. Only the 6-bank of drop targets has memory. Actual measured weight: 225 lbs (includes legs). "
 image: /assets/images/pinball/meteor.jpg
+ai_generated: true
 ---
 
 # 🚀 METEOR Pinball Machine - Strategy Guide

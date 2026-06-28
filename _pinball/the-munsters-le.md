@@ -17,6 +17,7 @@ notable_features: "Flippers (4), Pop bumpers (3), Slingshots (2), Captive balls 
 features:
   - "Limited edition"
 image: /assets/images/pinball/the-munsters-le.jpg
+ai_generated: true
 ---
 
 # 🧟 The Munsters (LE) - Strategy Guide

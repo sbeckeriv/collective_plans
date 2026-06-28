@@ -17,6 +17,7 @@ software_by: "Matt Coriale, Dean Grover"
 model_number: "90003"
 notable_features: "Safe Cracker has a playfield which is noticeably narrower and shorter than a standard pinball machine. The backbox has doors that swing open to simulate a bank safe, revealing the backglass. The backglass image and lights combine to provide an interactive board game where the player acts like a bank robber. The backbox has a token launcher, dispensing any of twenty different tokens when certain goals are achieved (see Rule Sheet in this listing). Time-based game. "
 image: /assets/images/pinball/safe-cracker.jpg
+ai_generated: true
 ---
 
 # 🔐 Safe Cracker - Strategy Guide

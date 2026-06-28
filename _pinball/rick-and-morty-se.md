@@ -17,6 +17,7 @@ notable_features: "Flippers (3), Pop bumper (1), Slingshot (1), Illuminating dro
 features:
   - "Pro edition"
 image: /assets/images/pinball/rick-and-morty-se.jpg
+ai_generated: true
 ---
 
 # 🛸 Rick and Morty - Strategy Guide

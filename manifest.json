@@ -1,0 +1,19 @@
+{
+  "name": "Pinball Strategy Guides",
+  "short_name": "Pinball",
+  "description": "AI-generated strategy guides for pinball machines",
+  "start_url": "/collective_plans/",
+  "scope": "/collective_plans/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a2e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/collective_plans/assets/images/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

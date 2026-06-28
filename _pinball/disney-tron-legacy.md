@@ -20,6 +20,7 @@ notable_features: "Flippers (3), Pop bumpers (3), Slingshots (2), Spinning targe
 features:
   - "Pro edition"
 image: /assets/images/pinball/disney-tron-legacy.jpg
+ai_generated: true
 ---
 # 🎯 TRON: Legacy Pinball - Ultimate Strategy Guide
 ## *Path to 1 Billion Points*

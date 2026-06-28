@@ -14,6 +14,7 @@ artist: "Larry Day"
 model_number: "689"
 notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Standup targets (6), Kick-out hole (1), Spinning target (1), Rollunder (1), 2-ball multiball. Has speech. Actual measured weight: 225 lbs (includes legs). "
 image: /assets/images/pinball/alien-star.jpg
+ai_generated: true
 ---
 
 # 👽 ALIEN STAR Pinball Machine - Strategy Guide

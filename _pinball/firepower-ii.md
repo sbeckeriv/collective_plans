@@ -15,6 +15,7 @@ software_by: "Dave Rzepka"
 model_number: "521"
 notable_features: "Flippers (2), Pop bumpers (4), Slingshots (2), Standup targets (10), Kick-out hole (1), Rollunder spinner (1), Ramp (1), 2-ball multiball. "
 image: /assets/images/pinball/firepower-ii.jpg
+ai_generated: true
 ---
 # 🔥 Firepower II Strategy Guide
 ## The Path to Maximum Points

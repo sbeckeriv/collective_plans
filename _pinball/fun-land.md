@@ -15,6 +15,7 @@ notable_features: "Flippers (2), Pop bumpers (3), Slingshots (2), Spinning targe
 features:
   - "Replay"
 image: /assets/images/pinball/fun-land.jpg
+ai_generated: true
 ---
 
 # 🎡 Fun Land - Strategy Guide

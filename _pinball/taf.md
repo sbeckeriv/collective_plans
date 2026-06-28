@@ -7,6 +7,7 @@ year: 1992
 manufacture_date: 1992-01-03
 ipdb_id: 20
 image: /assets/images/pinball/taf.jpg
+ai_generated: true
 ---
 
 # 🖤 The Addams Family - Strategy Guide

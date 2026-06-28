@@ -15,6 +15,7 @@ artist: Vince Proce
 type: SS
 theme: Fantasy / RPG
 players: 4
+ai_generated: true
 ---
 # 🐉 Dungeons & Dragons: The Tyrant's Eye Premium
 ## Ultimate Strategy Guide — Path to 1 Billion Points

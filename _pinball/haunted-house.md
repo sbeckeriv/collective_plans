@@ -16,6 +16,7 @@ notable_features: "Flippers (8), Pop bumpers (4), 5-bank drop targets (1), 4-ban
 features:
   - "Widebody"
 image: /assets/images/pinball/haunted-house.jpg
+ai_generated: true
 ---
 
 # 🏚️ Haunted House - Strategy Guide
